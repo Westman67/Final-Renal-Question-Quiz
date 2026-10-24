@@ -1,0 +1,7 @@
+# R19–R22 Picture Quiz preflight
+
+User-approved source-only workflow. The four read-only manual folders contain 124 PNG captures, R19 25, R20 41, R21 43, R22 15. All decoded. SHA-256 inventory found no exact duplicate files; visually similar families include alternate crops/captioned versions of amyloid, membranous nephropathy, BK nephropathy, chronic pyelonephritis, thrombotic angiopathy, and horseshoe kidney. Candidate selection was based on full collection contact-sheet review plus native-size final variant review, not filenames alone.
+
+The 124 originals were copied without modification into app-local assets with hash verification. The final scored set adds 19 image-dependent questions, R19 5, R20 5, R21 5, R22 4. The other 105 are reference-only because they are labeled, redundant, generic, ambiguous, or lack a distinct safe visual task. Four initially drafted candidate questions were moved to reference-only after full-size review because their visual evidence was overlapping or insufficient. Crops remove answer-revealing titles outside diagnostic tissue; no medical pixels were generated or filled. Exact RLS screenshot page numbers were not independently verified and are recorded as null rather than guessed.
+
+All source images remain unchanged. Existing R14–R17 pathology records and the 95-question physiology bank remain separate. Local educational rights only; redistribution permission for embedded third-party textbook images is not established.

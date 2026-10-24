@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "questions": [
+    {
+      "question_id": "q-3bde81ca5b28287df5ec",
+      "tested_concept": "Macula densa location",
+      "source_id": "src-83abe5fcc86b6d21",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 1,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 2
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-335788742cee7918e165",
+      "tested_concept": "Extraglomerular mesangium location",
+      "source_id": "src-83abe5fcc86b6d21",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 1,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 1
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-14f9426f02d85984d507",
+      "tested_concept": "Parietal capsule location",
+      "source_id": "src-83abe5fcc86b6d21",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 1,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 1
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-3e509a58fcb1574b2268",
+      "tested_concept": "Corticomedullary architecture",
+      "source_id": "src-9eacc6990359e518",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 2,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 1
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-8c113b24de127d531cfc",
+      "tested_concept": "Podocyte foot processes in TEM",
+      "source_id": "src-37174f3d550ed7d6",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 10,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 4
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-42d89b19863a8310ba4c",
+      "tested_concept": "Filtration slits in TEM",
+      "source_id": "src-37174f3d550ed7d6",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 10,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 4
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-cdc2444b676498bfbc96",
+      "tested_concept": "Glomerular basement membrane in TEM",
+      "source_id": "src-37174f3d550ed7d6",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 10,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 4
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-ae0dd86dab3225f54e9d",
+      "tested_concept": "Endothelial fenestra in TEM",
+      "source_id": "src-37174f3d550ed7d6",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 10,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 4
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-05e3d3bf0d917b9ef796",
+      "tested_concept": "Mitochondrial abundance across medullary profiles",
+      "source_id": "src-bca4f5eefadc36bd",
+      "citations": [
+        {
+          "document": "R1.2 Review - Renal Histology.pdf",
+          "page": 11,
+          "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 5
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-8cf480d341a24c8f7e2f",
+      "tested_concept": "Urinary space in light microscopy",
+      "source_id": "src-d5544e66440f3002",
+      "citations": [
+        {
+          "document": "R1.1 Review - Kidney Structure.pdf",
+          "page": 6,
+          "sha256": "8513256d8e58a00687b8090829e4e03f114f564dabff91e30e3edef203b92091"
+        },
+        {
+          "document": "R1 Review - Kidney Structure Tran.pdf",
+          "page": 2
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-7ec72716d9cc86be4fcd",
+      "tested_concept": "Filtration barrier layer order",
+      "source_id": "src-8d9681c685bc0f9d",
+      "citations": [
+        {
+          "document": "R1.1 Review - Kidney Structure.pdf",
+          "page": 7,
+          "sha256": "8513256d8e58a00687b8090829e4e03f114f564dabff91e30e3edef203b92091"
+        },
+        {
+          "document": "R1 Review - Kidney Structure Tran.pdf",
+          "page": 3
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    },
+    {
+      "question_id": "q-3f9cb8e4f2e2466b1149",
+      "tested_concept": "Endothelial surface morphology in SEM",
+      "source_id": "src-4110490056363164",
+      "citations": [
+        {
+          "document": "R1.1 Review - Kidney Structure.pdf",
+          "page": 9,
+          "sha256": "8513256d8e58a00687b8090829e4e03f114f564dabff91e30e3edef203b92091"
+        },
+        {
+          "document": "R1 Review - Kidney Structure Tran.pdf",
+          "page": 3
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 2
+        },
+        {
+          "document": "R1 Review - Renal Histology Tran.pdf",
+          "page": 5
+        }
+      ],
+      "review": "Complete item reviewed for visual evidence, unique best answer and option-specific rationales."
+    }
+  ]
+}

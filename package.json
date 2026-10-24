@@ -1,0 +1,16 @@
+{
+  "name": "renal-picture-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "npm run build && playwright test",
+    "build": "node scripts/build.mjs",
+    "build:full": "node scripts/build-full.mjs",
+    "start": "python3 scripts/serve.py"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}

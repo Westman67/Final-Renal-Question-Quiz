@@ -1,0 +1,418 @@
+{
+  "schema_version": 1,
+  "batch_id": "renal-flags-2026-10-06-r1",
+  "created_at": "2026-10-06T11:14:05-04:00",
+  "source": "Five open learner flags recovered read-only from the quiz browser progress store on 2026-10-06; user approved remediation.",
+  "flagged_question_ids": [
+    "q-80a455573f1703b11609",
+    "q-f298e13788387e5d6dbc",
+    "q-6f68cbd0e71eba1f4df3",
+    "q-a7bcc9d78974450b3134",
+    "q-ba53855a7abca217a1f0"
+  ],
+  "decisions": [
+    {
+      "question_id": "q-80a455573f1703b11609",
+      "action": "retain",
+      "reason": "Rewrote an overly broad two-route prompt into an image-dependent lower paracellular route identification; image itself is unchanged."
+    },
+    {
+      "question_id": "q-f298e13788387e5d6dbc",
+      "action": "mask",
+      "reason": "Removed both lower substrate labels as well as existing secretion text; arrows and compartment labels remain."
+    },
+    {
+      "question_id": "q-6f68cbd0e71eba1f4df3",
+      "action": "mask",
+      "reason": "Changed to ask for the hidden counter-transported ion and masked the actual H⁺ label; Na⁺ input and arrows remain."
+    },
+    {
+      "question_id": "q-a7bcc9d78974450b3134",
+      "action": "mask",
+      "reason": "Changed from reading the constrict starburst to predicting paired RPF/Pgc effects; masked vessel names and printed outcomes. Vessel arrows remain necessary evidence."
+    },
+    {
+      "question_id": "q-ba53855a7abca217a1f0",
+      "action": "mask",
+      "reason": "Changed to ask for the missing middle-stream ion and count; masked the printed 2 Cl⁻ and cotransporter title, retaining the Na⁺ and K⁺ streams."
+    }
+  ],
+  "propagated_to": [
+    "Other three R5 TGF response questions",
+    "R6 HCO₃⁻ apical products",
+    "Both R6 transcellular/paracellular route variants",
+    "Both R9 glutamine/ammonia pathway questions"
+  ],
+  "changed_derivatives": [
+    {
+      "question_id": "q-f298e13788387e5d6dbc",
+      "source_id": "src-9ba9a9fd14e5c648",
+      "old_variant_id": "var-5b26a54e7ab2cee63993d356",
+      "new_variant_id": "var-4a1992f9dd7613285188a448",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          [
+            24,
+            386,
+            168,
+            489
+          ],
+          [
+            18,
+            372
+          ]
+        ],
+        [
+          [
+            701,
+            385,
+            851,
+            490
+          ],
+          [
+            699,
+            369
+          ]
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology."
+    },
+    {
+      "question_id": "q-6f68cbd0e71eba1f4df3",
+      "source_id": "src-faca334f97ca3a2e",
+      "old_variant_id": "var-da5256d020fe54a55f57d5ff",
+      "new_variant_id": "var-594a84fffa9426a4e4f371bc",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          [
+            315,
+            490,
+            353,
+            520
+          ],
+          [
+            353,
+            515
+          ]
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology."
+    },
+    {
+      "question_id": "q-ba53855a7abca217a1f0",
+      "source_id": "src-0f17f0bd9d25ea15",
+      "old_variant_id": "var-40a40cb661250dfbeee830e5",
+      "new_variant_id": "var-02e79ca3e8b37ad986cdbcf9",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          [
+            79,
+            245,
+            169,
+            296
+          ],
+          [
+            74,
+            242
+          ]
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology."
+    },
+    {
+      "question_id": "q-d697c9ec879eabf6ea04",
+      "source_id": "src-308e454563cbf730",
+      "old_variant_id": "var-c0712d986717493a371d8272",
+      "new_variant_id": "var-1900645d5fab9958987c3763",
+      "action": "mask",
+      "added_masks": [
+        [
+          [
+            131,
+            545,
+            267,
+            583
+          ],
+          [
+            125,
+            542
+          ]
+        ],
+        [
+          [
+            500,
+            546,
+            635,
+            583
+          ],
+          [
+            500,
+            539
+          ]
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology."
+    },
+    {
+      "question_id": "q-796c0e27111715489331",
+      "source_id": "src-7e200b10089a7608",
+      "old_variant_id": "var-7a7741afbb6b09728fdcfd50",
+      "new_variant_id": "var-772d3be93db8f8644bf6ab3c",
+      "action": "mask",
+      "added_masks": [
+        [
+          [
+            628,
+            290,
+            808,
+            335
+          ],
+          [
+            626,
+            286
+          ]
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology."
+    },
+    {
+      "question_id": "q-39f7badb81a504bd3afa",
+      "source_id": "src-7e200b10089a7608",
+      "old_variant_id": "var-d6362f5aade6f536bde5b11d",
+      "new_variant_id": "var-4c6402dc0e464a41a7f9c278",
+      "action": "mask",
+      "added_masks": [
+        [
+          [
+            628,
+            181,
+            828,
+            225
+          ],
+          [
+            625,
+            177
+          ]
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology."
+    },
+    {
+      "question_id": "q-0fa4b85115e703a3a2dd",
+      "source_id": "src-3bc2fc96c06c0eb1",
+      "old_variant_id": "var-6c48c2b195490f41d04586c2",
+      "new_variant_id": "var-e45f64a306bd57ec5a3f6121",
+      "action": "mask",
+      "added_masks": [
+        [
+          300,
+          78,
+          685,
+          133
+        ],
+        [
+          70,
+          352,
+          158,
+          409
+        ],
+        [
+          359,
+          350,
+          443,
+          407
+        ],
+        [
+          831,
+          783,
+          1006,
+          836
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology.",
+      "note": "Second-pass QA replaced rough vessel text rectangles or corrected footer/background fill."
+    },
+    {
+      "question_id": "q-030275d9ade752ee5929",
+      "source_id": "src-3bc2fc96c06c0eb1",
+      "old_variant_id": "var-da3100290b20d7393deaebad",
+      "new_variant_id": "var-e7ffd148ee98107df44a7495",
+      "action": "mask",
+      "added_masks": [
+        [
+          300,
+          78,
+          685,
+          133
+        ],
+        [
+          32,
+          520,
+          151,
+          582
+        ],
+        [
+          327,
+          520,
+          456,
+          584
+        ],
+        [
+          502,
+          410,
+          650,
+          464
+        ],
+        [
+          780,
+          368,
+          932,
+          427
+        ],
+        [
+          960,
+          368,
+          1231,
+          427
+        ],
+        [
+          746,
+          564,
+          971,
+          600
+        ],
+        [
+          831,
+          783,
+          1333,
+          838
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology.",
+      "note": "Second-pass QA replaced rough vessel text rectangles or corrected footer/background fill."
+    },
+    {
+      "question_id": "q-a7bcc9d78974450b3134",
+      "source_id": "src-54b5ec0e8f3fd5f2",
+      "old_variant_id": "var-c200fd8ccb236b10b238f774",
+      "new_variant_id": "var-7f8de49cc8fb4af302214faf",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          154,
+          105,
+          235,
+          148
+        ],
+        [
+          807,
+          162,
+          960,
+          205
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology.",
+      "note": "Second-pass QA replaced rough vessel text rectangles or corrected footer/background fill."
+    },
+    {
+      "question_id": "q-ad64185b2ff11188e740",
+      "source_id": "src-54b5ec0e8f3fd5f2",
+      "old_variant_id": "var-67669b52760be93e81b87e66",
+      "new_variant_id": "var-7de6a33ee3fae2cf23c14909",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          154,
+          105,
+          235,
+          148
+        ],
+        [
+          807,
+          162,
+          960,
+          205
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology.",
+      "note": "Second-pass QA replaced rough vessel text rectangles or corrected footer/background fill."
+    },
+    {
+      "question_id": "q-14b655ba17ab05463b8f",
+      "source_id": "src-2be861262c4c59cd",
+      "old_variant_id": "var-c32819dce8b9386b84ecbe66",
+      "new_variant_id": "var-9f134dfa9b2b9fae9cf001b5",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          124,
+          117,
+          207,
+          161
+        ],
+        [
+          811,
+          133,
+          965,
+          178
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology.",
+      "note": "Second-pass QA replaced rough vessel text rectangles or corrected footer/background fill."
+    },
+    {
+      "question_id": "q-755ce2a85a3b42196812",
+      "source_id": "src-2be861262c4c59cd",
+      "old_variant_id": "var-c8133fbcb20778849735b75c",
+      "new_variant_id": "var-67c99d955c582dd2a520784d",
+      "action": "mask_and_rewrite",
+      "added_masks": [
+        [
+          124,
+          117,
+          207,
+          161
+        ],
+        [
+          811,
+          133,
+          965,
+          178
+        ]
+      ],
+      "reason": "Remove direct answer text or a sibling-label leak while retaining diagnostic arrows and topology.",
+      "note": "Second-pass QA replaced rough vessel text rectangles or corrected footer/background fill."
+    }
+  ],
+  "question_only_rewrite": [
+    "q-80a455573f1703b11609"
+  ],
+  "qa_status": "PASS",
+  "qa_checked_at": "2026-10-06T11:20:55-04:00",
+  "qa_summary": "Five flagged IDs each resolved exactly once in decision list; 12 modified derivatives visually inspected; immutable source hashes and source-to-variant lineage verified; residual answer labels not visible; arrows and anatomy retained.",
+  "flag_comments": {
+    "q-80a455573f1703b11609": "Needs to be a better question",
+    "q-f298e13788387e5d6dbc": "More things need to be blanked out or question improved",
+    "q-6f68cbd0e71eba1f4df3": "Need to block at least one of the other substances if its a two name exchnager",
+    "q-a7bcc9d78974450b3134": "Need to block arrows as well if asking this question and need to block afferent and efferent regardless",
+    "q-ba53855a7abca217a1f0": "You need to block the actual numbers/elements"
+  },
+  "bank_wide_review": {
+    "questions_reviewed": 95,
+    "collections": [
+      "R1",
+      "R2",
+      "R4",
+      "R5",
+      "R6",
+      "R7",
+      "R8",
+      "R9"
+    ],
+    "finding": "Five direct learner flags and analogous leakage patterns in R5, R6, and R9 remediated. R1, R2, R4, and R8 contact-sheet visual checks found no new direct answer-text leak requiring modification. Existing R7 non-flagged variants retained after diagram review.",
+    "scored_count_after": 95
+  }
+}

@@ -1,0 +1,1411 @@
+{
+  "schema_version": 1,
+  "audit_date": "2026-10-24",
+  "generation_batch": "lecture-case-expansion-2026-10-24",
+  "scope": "User-supplied PDFs in the local Renal/Lectures folder only. No internet or outside medical sources used.",
+  "method": "All lecture PDFs were inventoried, case-like pages were text-screened, repeated prompt/answer slides were consolidated by case, and each distinct defensible case was mapped to an existing or new Visual Question.",
+  "summary": {
+    "lecture_pdfs_inventoried": 230,
+    "distinct_cases": 100,
+    "new_table_visual_questions": 81,
+    "existing_case_mappings": 19,
+    "unmapped_distinct_cases": 0
+  },
+  "cases": [
+    {
+      "case_id": "R3-beginner-impaired-filtration",
+      "lecture": "R3",
+      "document": "R3 Filtration & GFR (Physiology) RLS.pdf",
+      "pages": [
+        36,
+        37
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-60abb7bb33a0aaf9ed75"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R3-expert-unilateral-obstruction",
+      "lecture": "R3",
+      "document": "R3 Filtration & GFR (Physiology) RLS.pdf",
+      "pages": [
+        38,
+        39
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-56c327d527f97372083d"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R9-DKA-acid-defense",
+      "lecture": "R9",
+      "document": "R9 Acid-Base Regulation (Physiology) RLS.pdf",
+      "pages": [
+        36,
+        41
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-f7e625944682bbbab9fb"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-1-shock",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        13,
+        17
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-759c25988ea4b27fe4a1"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-2-vomiting",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        19,
+        32
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-fc8c4d7ff58881bdf3ac"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-3-pulmonary",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        33,
+        39
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-24722c1bbb40158bbedd"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-4-ventilator",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        40,
+        46
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-bc2630b880c41876f654"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-5-CKD",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        47,
+        53
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-48ee66fa563d70da33fc"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-6-Fanconi",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        54,
+        61
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-fc759ce9bf2edf75202c"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R12-case-7-salicylate",
+      "lecture": "R12",
+      "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+      "pages": [
+        63,
+        66
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-b41e86555eff11eabfe1"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-1-poor-intake",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-b5e92c3e8565af69c7b9"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-10-free-water-versus-isotonic-loss",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-7932fce50d5d6b6eca72"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-2-isotonic-diarrhea",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-ac4c2b2447a8bb43f1fb"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-3-vomiting-low-urine-sodium",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-c5241f908b3493d44fa1"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-4-urea-osmolality",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-f785a93aeb7cdbd8425b"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-5-water-deprivation",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        2,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-1e8c7d1d97d37ff6651b"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-6-prerenal-bun-creatinine",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        2,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-1ecff4501d281666d826"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-7-maximal-urine-concentration",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-97013589c4c8caf02d2c"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-8-diarrhea-eabv",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-3457cebe88e09208b963"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R23-PQ-9-nonosmotic-ADH",
+      "lecture": "R23",
+      "document": "R23 Fluid Regulation Disorders (Pathophysiology) PQ.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-518a60b5a2761a62a8da"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-1-vomiting-hyponatremia",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-7b17d78cf9de67952fdd"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-10-hypernatremia-two-axis",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-e9666e4a4a739eed124f"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-2-saline-treatment",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-1f25c2cb05627e57ee95"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-3-hyperglycemic-hyponatremia",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-4129295fea9b4bc11d58"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-4-myeloma-pseudohyponatremia",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        1,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-c3062a7cb79a1256779f"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-5-CHF-hyponatremia",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        2,
+        3
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-7ed5689032aff54893bd"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-6-sodium-concentration",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-38defb67c90fce7c51b2"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-7-low-solute-intake",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-d65ae7dc5c2135943ec0"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-8-brain-swelling",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-5545d4d7535b87967cfa"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R24-PQ-9-D5W-distribution",
+      "lecture": "R24",
+      "document": "R24 Electrolyte Disorders (Pathophysiology) PQs.pdf",
+      "pages": [
+        2,
+        4
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-216a7b06a73808330af1"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-RLS-case-1-diarrhea",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        2,
+        10
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-6bb2a45f079897bacd72"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-RLS-case-2-heart-failure",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        11,
+        18
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-91c34eba566e3866eb08"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-RLS-case-3-diarrhea-plus-water",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        19,
+        24
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-f878a66740e1a2b3dcfd"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-RLS-case-4-HHS",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        26,
+        31
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-a221a4ab62d87e92190a"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-RLS-case-5-TB-SIADH",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        32,
+        40
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-689e6bce430918237f19"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-RLS-case-6-isotonic-versus-sweat",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        41,
+        46
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-66c9b9705feb371a0724"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hypernatremia-1-vomiting-no-water",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Study Guide Hypernatremia.pdf",
+      "pages": [
+        11,
+        12
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-e4c9739425fb93527103"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hypernatremia-2-enteral-water",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Study Guide Hypernatremia.pdf",
+      "pages": [
+        13,
+        14
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-8d2b247a4185875fb208"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hypernatremia-3-hypercalcemic-NDI",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Study Guide Hypernatremia.pdf",
+      "pages": [
+        15,
+        16
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-ae521b13ea8f3f6ec1a2"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hypernatremia-4-primary-aldosteronism",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Study Guide Hypernatremia.pdf",
+      "pages": [
+        18,
+        20
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-9809a992ad0fd44e708d"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hypernatremia-5-multifactorial-CKD",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Study Guide Hypernatremia.pdf",
+      "pages": [
+        21,
+        22
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-6d4f7a6707149e084333"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-1-D5W",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        19,
+        20
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-217af342719dc16e48aa"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-10-pseudohyponatremia",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        37,
+        39
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-044b019e136c68fa1be7"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-11-small-cell-SIADH",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        40,
+        41
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-210b6cf0db859b75bb84"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-2-vomiting",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        21,
+        22
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-ec75a43e92bba15b12fd"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-3-thiazide",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        23,
+        24
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-0fb5b0f1ec05ab312a0b"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-4-vomiting-thiazide",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        25,
+        26
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-7add2edcb0d0920a71ba"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-5-cerebral-salt-wasting",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        27,
+        28
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-bf541bfaeae389168c21"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-6-CHF",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        29,
+        30
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-7fd3f0ced61f1638d8c0"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-7-tea-toast",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        31,
+        32
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-e721f13b9b8bff7269b3"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-8-polydipsia",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        33,
+        34
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-befcf24c7b1001e5eb56"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R27-hyponatremia-9-marathon",
+      "lecture": "R27",
+      "document": "R27 Fluid Imbalance Case Studies (Clinical) Hyponatremia.pdf",
+      "pages": [
+        35,
+        36
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-79a6e931f915a0ab1faa"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R30-RTA-classic-distal-type-1",
+      "lecture": "R30",
+      "document": "R30 Acid-Base Balance RLS.pdf",
+      "pages": [
+        39,
+        43
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-bc6c2f0112dbe5fd6d9f"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R30-RTA-proximal-type-2",
+      "lecture": "R30",
+      "document": "R30 Acid-Base Balance RLS.pdf",
+      "pages": [
+        27,
+        38,
+        43
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-37f7f1d965f9e7f1b4c2"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R30-RTA-type-4",
+      "lecture": "R30",
+      "document": "R30 Acid-Base Balance RLS.pdf",
+      "pages": [
+        41,
+        43
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-8c2ad9842dfba912c88a"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R30-RTA-voltage-mediated-distal-type-1",
+      "lecture": "R30",
+      "document": "R30 Acid-Base Balance RLS.pdf",
+      "pages": [
+        40,
+        43
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-615a93244764dff6a477"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R32-case-1-DKA-hyperkalemia",
+      "lecture": "R32",
+      "document": "R32 Serum Potassium Regulation (Pathophysiology) RLS.pdf",
+      "pages": [
+        8
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-115ea49fe636f9e858d1"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R32-case-2-AKI-emergency-hyperkalemia",
+      "lecture": "R32",
+      "document": "R32 Serum Potassium Regulation (Pathophysiology) RLS.pdf",
+      "pages": [
+        9
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-8d568858ac6120600cc0"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R32-case-3-pseudohyperkalemia",
+      "lecture": "R32",
+      "document": "R32 Serum Potassium Regulation (Pathophysiology) RLS.pdf",
+      "pages": [
+        26
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-916a92123f6db6bbc357"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R32-case-4-CHF-digitalis-AKI",
+      "lecture": "R32",
+      "document": "R32 Serum Potassium Regulation (Pathophysiology) RLS.pdf",
+      "pages": [
+        27,
+        28
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-d9404baf81acf5b2888b"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R32-case-5-resistant-hypertension",
+      "lecture": "R32",
+      "document": "R32 Serum Potassium Regulation (Pathophysiology) RLS.pdf",
+      "pages": [
+        29
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-92c4ce3386af59699a86"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R34-case-1-necrotizing-GN",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        9
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-b21d1bcaf3310ceb5569",
+        "q-e70623b485e8e4a95c15"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-10-amyloid",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        98
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-71b1a77f6ffa95d60249"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-2-anti-GBM",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        19
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-fd22f86ddf4750e6325c"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-3-IgA-HSP",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        32
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-672602ad9d5565605b09",
+        "q-d45f770a4496a2dd08b1"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-4-infection-associated-GN",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        44
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-f290e94d070ee4fd554f",
+        "q-9f4a1afba93ef6573132"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-5-membranous",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        56
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-8625c08a2b15cb762fdd",
+        "q-4c58f00612b3d8a15cc4"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-6-diabetic-nephropathy",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        68
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-0620eadaa903a2c679c3"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-7-FSGS",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        76
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-bf1ce6935c89ace36e15"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-8-thrombotic-microangiopathy",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        83
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-4cd4a14eaed3f26c1cac"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R34-case-9-AIN",
+      "lecture": "R34",
+      "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+      "pages": [
+        92
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-7016a3c7c13ac68418e7"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R35-case-1-anion-gap",
+      "lecture": "R35",
+      "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+      "pages": [
+        3
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-e52d22b456a257746aac"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R35-case-2-metabolic-alkalosis",
+      "lecture": "R35",
+      "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+      "pages": [
+        6
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-b08baae7cecf3848b138"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R35-case-3-post-hypercapnic-alkalosis",
+      "lecture": "R35",
+      "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+      "pages": [
+        10
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-75dfa33316ce61fc7a4c"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R35-case-4-osmolal-gap",
+      "lecture": "R35",
+      "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+      "pages": [
+        14
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-a8c841ad485aa9f2e905"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R36-case-1-ACE-inhibitor",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        2
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-fe8dc32336f7e8cbf2d1"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R36-case-10-NSAID-MCD",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        26,
+        27
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-521bdc904c41ec0c584e"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-11-ertapenem-AIN",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        28,
+        30
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-d33d33e3c749b01b1f93"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-12-protease-crystals",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        31
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-6eab30c02d7f29ba72c9"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R36-case-13-urinary-retention",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        33
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-89681f79c60c5ff4d9b0"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R36-case-2-gentamicin",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        5,
+        6
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-54ddcee2139c41bea63e"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-3-amphotericin",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        7,
+        8
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-972fb2391e2dc298847c"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-4-cisplatin",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        9,
+        10
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-bdd23ce1d3080cfc6879"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-5-furosemide",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        12,
+        13
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-357169c163f2e89a6a10"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-6-gadolinium",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        14,
+        15
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-005936f01bcdd0101150"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-7-heroin-FSGS",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        17,
+        18
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-a167d0724406aa0a29e7"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-8-contrast-risk",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        19,
+        20
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-e1138fd7026191fc4843"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R36-case-9-lithium-NDI",
+      "lecture": "R36",
+      "document": "R36 Treatment Pitfalls & AI Use Case Studies (Clinical) RLS.pdf",
+      "pages": [
+        21,
+        25
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-6cb5670b85ff35db08b6"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R37-case-1-rhabdomyolysis",
+      "lecture": "R37",
+      "document": "R37 Clinical Nephrology Case Studies SEA Session RLS.pdf",
+      "pages": [
+        2,
+        13
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-4fad96d97478c54a03f3"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R37-case-2-pulmonary-renal",
+      "lecture": "R37",
+      "document": "R37 Clinical Nephrology Case Studies SEA Session RLS.pdf",
+      "pages": [
+        14,
+        20
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-316d9bca330b31ad4f57"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R37-case-3-PPI-AIN",
+      "lecture": "R37",
+      "document": "R37 Clinical Nephrology Case Studies SEA Session RLS.pdf",
+      "pages": [
+        21,
+        26
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-731e05d1288f6dfa07dd"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R37-case-4-minimal-change",
+      "lecture": "R37",
+      "document": "R37 Clinical Nephrology Case Studies SEA Session RLS.pdf",
+      "pages": [
+        27
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-0118822fc4b7e1e6126e"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R37-case-5-advanced-CKD",
+      "lecture": "R37",
+      "document": "R37 Clinical Nephrology Case Studies SEA Session RLS.pdf",
+      "pages": [
+        33
+      ],
+      "disposition": "existing_image_visual_question_enriched_or_confirmed",
+      "question_ids": [
+        "q-45bb041ac08246335e66"
+      ],
+      "duplicate_resolution": "The canonical case is represented by the listed existing image question or questions; repeated answer views were not duplicated."
+    },
+    {
+      "case_id": "R38-longitudinal-multiple-hit-ATN",
+      "lecture": "R38",
+      "document": "R38 Nephrology Clinical Case Discussion RLS.pdf",
+      "pages": [
+        2,
+        12
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-77505ca4f1580dfeea12"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R39-mystery-primary-aldosteronism",
+      "lecture": "R39",
+      "document": "R39 Renal Mystery Illness Questions for Discussion RLS.pdf",
+      "pages": [
+        2,
+        6
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-3bfa0006121c4de3dd41"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R41-case-1-postinfectious-GN",
+      "lecture": "R41",
+      "document": "R41 Renal Gross Specimen Review RLS.pdf",
+      "pages": [
+        5,
+        8
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-d4dcc09cbb1199edff13"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R41-case-2-anti-GBM",
+      "lecture": "R41",
+      "document": "R41 Renal Gross Specimen Review RLS.pdf",
+      "pages": [
+        10,
+        14
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-515aff25101a4493e50b"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R41-case-3-lupus-nephritis",
+      "lecture": "R41",
+      "document": "R41 Renal Gross Specimen Review RLS.pdf",
+      "pages": [
+        16,
+        30
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-49fba86fbc9cea65ed57"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R41-case-4-crush-ATN",
+      "lecture": "R41",
+      "document": "R41 Renal Gross Specimen Review RLS.pdf",
+      "pages": [
+        31,
+        33
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-216e04567c3f749b7de6"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    },
+    {
+      "case_id": "R41-case-5-staghorn-pyelonephritis",
+      "lecture": "R41",
+      "document": "R41 Renal Gross Specimen Review RLS.pdf",
+      "pages": [
+        9,
+        34,
+        36
+      ],
+      "disposition": "new_table_visual_question",
+      "question_ids": [
+        "q-case-7020d6093640ab71e1c0"
+      ],
+      "duplicate_resolution": "Repeated case and answer slides were consolidated into one scored case record."
+    }
+  ],
+  "not_scored_as_visual_cases": [
+    {
+      "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) Quiz.pdf",
+      "items": 10,
+      "reason": "This file is a text-only micturition quiz rather than a clinical case set; the user stated that text-only questions are maintained elsewhere."
+    },
+    {
+      "document": "RX.1 Exam Review Questions (Clinical) RLS.pdf",
+      "items": 154,
+      "reason": "This is a text-question review bank. It was retained as reference material and not duplicated into the visual quiz, consistent with the user's text-question boundary."
+    }
+  ]
+}

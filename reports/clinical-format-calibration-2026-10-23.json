@@ -1,0 +1,591 @@
+{
+  "schema_version": 1,
+  "artifact_type": "clinical_format_calibration",
+  "status": "AWAITING_APPROVAL",
+  "created_date": "2026-10-23",
+  "purpose": "Ten-item calibration set for converting the renal picture quiz from visual identification to source-grounded clinical and physiologic reasoning questions.",
+  "style_reference": "/Users/chriselwell/Desktop/Renal Quiz Question Format Analysis.pdf",
+  "source_directory": "/Users/chriselwell/Desktop/Renal/Lectures",
+  "source_inventory": "reports/lecture-source-inventory-2026-10-23.json",
+  "production_bank_modified": false,
+  "calibration_requirements": {
+    "visual_required": true,
+    "options_per_question": 5,
+    "rationales_per_question": 5,
+    "medical_content_source_policy": "Attached lecture folder only",
+    "scope": [
+      "physiology",
+      "graph interpretation",
+      "urine microscopy",
+      "pharmacology",
+      "electron microscopy",
+      "immunofluorescence",
+      "laboratory interpretation",
+      "radiology",
+      "hereditary oncology",
+      "oncologic staging"
+    ]
+  },
+  "questions": [
+    {
+      "calibration_id": "cal-r4-efferent-hemodynamics",
+      "legacy_question_id": "q-a6afe0b1b490ac5016e5",
+      "bank": "physiology",
+      "collection": "R4",
+      "question_type": "Physiologic prediction",
+      "tested_concept": "Hemodynamic effects of moderate efferent arteriolar constriction",
+      "stem": "An experimental maneuver causes isolated moderate constriction of the efferent arteriole. The figure summarizes the resulting renal hemodynamic changes, with one cell masked. Which complete pattern is most likely?",
+      "visual_target": "The constrict-efferent row and its relationship among renal plasma flow, glomerular capillary pressure, GFR, and filtration fraction.",
+      "options": [
+        "RPF decreases, Pgc increases, GFR increases, and filtration fraction increases",
+        "RPF decreases, Pgc decreases, GFR decreases, and filtration fraction is unchanged",
+        "RPF increases, Pgc increases, GFR increases, and filtration fraction is unchanged",
+        "RPF increases, Pgc decreases, GFR decreases, and filtration fraction decreases",
+        "RPF, Pgc, GFR, and filtration fraction are all unchanged"
+      ],
+      "correct_index": 0,
+      "choice_rationales": [
+        "This is the pattern shown for moderate efferent constriction. Outflow resistance lowers RPF while raising Pgc enough to increase GFR, so filtration fraction also rises.",
+        "This is the afferent-constriction pattern in the figure, not the efferent-constriction pattern.",
+        "This is the afferent-dilation pattern in the figure, not the efferent-constriction pattern.",
+        "This is the efferent-dilation pattern in the figure, the opposite intervention.",
+        "The unchanged pattern is the normal baseline row and does not follow an isolated resistance change."
+      ],
+      "explanation": "Moderate efferent arteriolar constriction decreases RPF but increases glomerular capillary pressure and GFR. Because GFR rises while RPF falls, filtration fraction increases.",
+      "visual_clues": [
+        "The constrict-efferent row already shows RPF down, Pgc up, and filtration fraction up.",
+        "The masked GFR cell completes a pattern distinct from the other three intervention rows."
+      ],
+      "citations": [
+        {
+          "document": "R4 Renal Plasma Flow (Physiology) RLS.pdf",
+          "page": 16,
+          "sha256": "573c8a7ec7eaadd5388975da4f76c83eae078c3da18ba0884e1ce94fb9f476f2"
+        }
+      ],
+      "image": "assets/89c10abe437cab368a7cdecf.webp",
+      "zoom_image": "assets/89c10abe437cab368a7cdecf.png",
+      "original_image": "assets/8c67d29e2bc019de57d73500.png",
+      "visual_qa": "PASS. The masked GFR cell does not reveal the answer. The remaining rows and variables are legible and necessary for comparison.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r12-acid-base-timing",
+      "legacy_question_id": "q-50974bb5a3c9a279897d",
+      "bank": "physiology",
+      "collection": "R12",
+      "question_type": "Graph interpretation",
+      "tested_concept": "Timing of acid-base defense responses",
+      "stem": "A patient receives an acute H+ or HCO3− load at time zero. At approximately two hours, which defense process in the graph is most nearly complete?",
+      "visual_target": "The relative heights of the five response curves at the two-hour tick.",
+      "options": [
+        "Respiratory compensation",
+        "Cellular buffering",
+        "Extracellular fluid distribution and buffering",
+        "Renal base excretion",
+        "Renal acid excretion"
+      ],
+      "correct_index": 2,
+      "choice_rationales": [
+        "The respiratory-compensation curve is still early in its rise at two hours.",
+        "The cellular-buffering curve has begun to rise but is well below its plateau at two hours.",
+        "The leftmost extracellular-fluid distribution and buffering curve is already close to 100% completion by two hours.",
+        "Renal base excretion develops over a longer interval and is not near completion at two hours.",
+        "Renal acid excretion is the latest response shown and remains near baseline at two hours."
+      ],
+      "explanation": "Extracellular fluid distribution and buffering is the earliest defense process in the graph and is nearly complete by two hours.",
+      "visual_clues": [
+        "The earliest curve rises steeply immediately after time zero.",
+        "The renal curves extend across the later 24-to-72-hour portion of the graph."
+      ],
+      "citations": [
+        {
+          "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+          "page": 6,
+          "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+        }
+      ],
+      "image": "assets/4c9c25a0e1b18213a24cdff6.webp",
+      "zoom_image": "assets/4c9c25a0e1b18213a24cdff6.png",
+      "original_image": "assets/d45a1b26983e0591c0f88bcd.png",
+      "visual_qa": "PASS. The first two response labels are masked, but the curves and organ-system groupings remain clear. The graph is required to compare response timing.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r15-acyclovir-crystals",
+      "legacy_question_id": "q-82c1141df8042112c8e6",
+      "bank": "pathology",
+      "collection": "R15",
+      "question_type": "Clinical microscopy association",
+      "tested_concept": "Acyclovir crystalluria",
+      "stem": "A hospitalized patient receiving antiviral therapy has the long, birefringent, needle-shaped crystals pictured on urine microscopy. Which substance most likely formed these crystals?",
+      "visual_target": "The long, separate crossing needles without a dense radial center.",
+      "options": [
+        "Indinavir",
+        "Acyclovir",
+        "Sulfadiazine",
+        "Cystine",
+        "Calcium oxalate dihydrate"
+      ],
+      "correct_index": 1,
+      "choice_rationales": [
+        "Indinavir crystals are described as sunburst clusters or flat plate-like needles pointed at both ends, not the sparse crossing needles shown.",
+        "Acyclovir forms birefringent needle-shaped crystals matching the pictured morphology and the antiviral exposure.",
+        "Sulfadiazine crystals form shocks-of-wheat or shell-shaped aggregates rather than long separate needles.",
+        "Cystine forms hexagonal crystals in acidic urine, which is a different morphology.",
+        "Calcium oxalate dihydrate forms envelope-shaped crystals rather than long needles."
+      ],
+      "explanation": "The lecture identifies birefringent needle-shaped drug crystals as acyclovir crystals.",
+      "visual_clues": [
+        "Long, thin needles cross independently.",
+        "There is no dense sunburst center or hexagonal outline."
+      ],
+      "citations": [
+        {
+          "document": "R15 Urinalysis RLS.pdf",
+          "page": 30,
+          "sha256": "687fcc5d238c9d2800f27a1fda3eb9e3b42e4e89c7b077906f97e274c70d2c9f"
+        },
+        {
+          "document": "R15 Urinalysis RLS.pdf",
+          "page": 32,
+          "sha256": "687fcc5d238c9d2800f27a1fda3eb9e3b42e4e89c7b077906f97e274c70d2c9f"
+        },
+        {
+          "document": "R15 Urinalysis RLS.pdf",
+          "page": 33,
+          "sha256": "687fcc5d238c9d2800f27a1fda3eb9e3b42e4e89c7b077906f97e274c70d2c9f"
+        }
+      ],
+      "image": "assets/6aa62fb7fd96a0b45e2f18ed.webp",
+      "zoom_image": "assets/6aa62fb7fd96a0b45e2f18ed.png",
+      "original_image": "assets/af7ea27e0e06552ad6fdedcb.png",
+      "visual_qa": "PASS WITH LIMITATION. The crop is low resolution, but the long crossing needles remain recognizable and no answer label is present.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r17-thiazide-calcium",
+      "legacy_question_id": "q-b162e3a354041916d035",
+      "bank": "pathology",
+      "collection": "R17",
+      "question_type": "Applied pharmacology table",
+      "tested_concept": "Thiazide effects on urinary sodium and calcium",
+      "stem": "An adult begins one of the diuretic classes listed in the table. Follow-up urine studies show increased sodium excretion but decreased calcium excretion. Which class was most likely prescribed?",
+      "visual_target": "The class rows and the masked urinary sodium and calcium columns, interpreted with the remaining effect profile.",
+      "options": [
+        "Loop diuretics",
+        "Osmotic diuretics",
+        "Carbonic anhydrase inhibitors",
+        "Thiazides",
+        "ENaC blockers"
+      ],
+      "correct_index": 3,
+      "choice_rationales": [
+        "Loop diuretics increase urinary calcium rather than decrease it.",
+        "Osmotic diuretics do not produce the urinary calcium decrease shown for thiazides.",
+        "Carbonic anhydrase inhibitors increase urinary sodium but do not have the downward urinary-calcium pattern.",
+        "The thiazide row combines increased urinary sodium with decreased urinary calcium.",
+        "ENaC blockers increase urinary sodium but do not produce the thiazide calcium pattern."
+      ],
+      "explanation": "Among the classes in the lecture table, thiazides uniquely pair increased urinary sodium excretion with decreased urinary calcium excretion.",
+      "visual_clues": [
+        "The sodium and calcium cells are masked, requiring integration of the stated urine findings with the class rows.",
+        "The remaining row profile helps distinguish thiazides from loop and potassium-sparing agents."
+      ],
+      "citations": [
+        {
+          "document": "R17 Diuretics II (Pharmacology) RLS.pdf",
+          "page": 24,
+          "sha256": "7fd9f21caa78dee237219cfe50374abb9f2a89d0bdbb9be1243ef01e78870ef4"
+        }
+      ],
+      "image": "assets/8505e62e48029b25baec3fb2.webp",
+      "zoom_image": "assets/8505e62e48029b25baec3fb2.png",
+      "original_image": "assets/3b0c6ce91762d719381655a1.png",
+      "visual_qa": "PASS. The two tested columns are fully masked, class labels and comparison columns are legible, and the teaching answer is not exposed.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r18-alport-em",
+      "legacy_question_id": "q-81fd2def73af26c57610",
+      "bank": "pathology",
+      "collection": "R18",
+      "question_type": "Clinicopathologic electron microscopy",
+      "tested_concept": "Alport syndrome ultrastructure",
+      "stem": "A young man has persistent hematuria, progressive kidney disease, sensorineural hearing loss, and a family history of renal failure. Which ultrastructural finding is illustrated by the electron micrograph?",
+      "visual_target": "The irregular, thickened, lamellated glomerular basement membrane between the capillary lumen and epithelial side.",
+      "options": [
+        "Continuous intramembranous electron-dense deposits",
+        "Discrete subepithelial hump-like deposits",
+        "A uniformly thin but structurally intact glomerular basement membrane",
+        "Diffuse podocyte foot-process effacement",
+        "Splitting and fraying of the lamina densa with a basket-weave appearance"
+      ],
+      "correct_index": 4,
+      "choice_rationales": [
+        "Continuous intramembranous deposits characterize dense deposit disease, not hereditary nephritis with hearing loss.",
+        "Subepithelial humps are immune deposits seen in infection-associated glomerulonephritis, not the lamellated membrane shown.",
+        "Thin basement membrane disease produces a uniformly thin membrane and lacks the ocular and auditory findings of Alport syndrome.",
+        "Diffuse foot-process effacement is the defining electron-microscopy pattern of minimal change disease and does not explain the split lamina densa.",
+        "Alport syndrome produces splitting and fraying of the lamina densa, creating the pictured basket-weave glomerular basement membrane."
+      ],
+      "explanation": "The clinical findings and the thickened, split, lamellated basement membrane identify the basket-weave ultrastructure of Alport syndrome.",
+      "visual_clues": [
+        "The glomerular basement membrane is irregularly thickened and layered.",
+        "There are no discrete electron-dense immune deposits."
+      ],
+      "citations": [
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 48,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 61,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 73,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 75,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 76,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 77,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 97,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        }
+      ],
+      "image": "assets/1dd7880c6751c317315af920.webp",
+      "zoom_image": "assets/1dd7880c6751c317315af920.png",
+      "original_image": "assets/8456b91d267346bc77815071.png",
+      "visual_qa": "PASS. The capillary lumen and epithelial side are labeled, the lamellated membrane is visible, and no diagnostic name appears.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r34-poststreptococcal-if",
+      "legacy_question_id": "q-ec9f98a4f22d55a2d666",
+      "bank": "pathology",
+      "collection": "R34",
+      "question_type": "Clinicopathologic immunofluorescence",
+      "tested_concept": "IgG pattern in infection-associated glomerulonephritis",
+      "stem": "A 7-year-old boy develops acute kidney injury and hematuria two weeks after Streptococcus pyogenes pharyngitis. His C3 is low, C4 is normal, and ANA, ANCA, and anti-GBM testing are negative. Which immunofluorescence pattern is shown in the IgG image?",
+      "visual_target": "The irregular IgG signal along glomerular capillary loops and within the mesangial region.",
+      "options": [
+        "Smooth linear IgG along the glomerular basement membranes",
+        "Dominant mesangial IgA staining",
+        "Granular capillary-wall and mesangial IgG staining",
+        "A pauci-immune pattern with little or no glomerular immunoglobulin",
+        "A full-house granular pattern with IgG, IgA, IgM, C3, and C1q"
+      ],
+      "correct_index": 2,
+      "choice_rationales": [
+        "Smooth linear IgG is the anti-GBM pattern. The serology is negative and the pictured signal is irregular rather than linear.",
+        "Dominant mesangial IgA supports IgA nephropathy, whereas this poststreptococcal case has strong granular IgG and C3.",
+        "Infection-associated glomerulonephritis produces granular IgG and C3 along capillary walls and in the mesangium, matching the image and low C3.",
+        "Pauci-immune glomerulonephritis has little or no immune staining, which conflicts with the strong glomerular IgG signal.",
+        "A full-house pattern supports lupus nephritis. This case is ANA-negative and the lecture panel instead emphasizes IgG and C3."
+      ],
+      "explanation": "The poststreptococcal timing, low C3, and irregular glomerular IgG signal support the granular capillary-wall and mesangial pattern of infection-associated glomerulonephritis.",
+      "visual_clues": [
+        "Bright IgG outlines capillary-loop regions in an irregular, discontinuous texture.",
+        "Signal is also present in the central mesangial region."
+      ],
+      "citations": [
+        {
+          "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+          "page": 16,
+          "sha256": "a0d905ef1d467e39a42e2df504a1fc084d84ec59d1cb4c43d3ba76151a88a138"
+        },
+        {
+          "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+          "page": 29,
+          "sha256": "a0d905ef1d467e39a42e2df504a1fc084d84ec59d1cb4c43d3ba76151a88a138"
+        },
+        {
+          "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+          "page": 36,
+          "sha256": "a0d905ef1d467e39a42e2df504a1fc084d84ec59d1cb4c43d3ba76151a88a138"
+        },
+        {
+          "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+          "page": 42,
+          "sha256": "a0d905ef1d467e39a42e2df504a1fc084d84ec59d1cb4c43d3ba76151a88a138"
+        },
+        {
+          "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+          "page": 44,
+          "sha256": "a0d905ef1d467e39a42e2df504a1fc084d84ec59d1cb4c43d3ba76151a88a138"
+        },
+        {
+          "document": "R34 Renal Pathology - Renal Diseases - Slide Review RLS.pdf",
+          "page": 47,
+          "sha256": "a0d905ef1d467e39a42e2df504a1fc084d84ec59d1cb4c43d3ba76151a88a138"
+        },
+        {
+          "document": "R18 Renal Pathology - Glomerular Diseases (Part 1) (Nephritic Diseases) (Pathology) RLS.pdf",
+          "page": 129,
+          "sha256": "40af33662363ec26e2a1fe70a7b06e6f8cf46b8ed74943bf5486ca59c212a28d"
+        }
+      ],
+      "image": "assets/8c90cfc1d680b0b8b9ea3377.webp",
+      "zoom_image": "assets/8c90cfc1d680b0b8b9ea3377.png",
+      "original_image": "assets/aebea92dcf149ef74f824063.png",
+      "visual_qa": "PASS. The image identifies the stain as IgG but does not name the diagnosis or pattern. The granular distribution is visible at quiz scale.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r35-anion-gap",
+      "legacy_question_id": "q-abe4d54f7689d70f2a52",
+      "bank": "pathology",
+      "collection": "R35",
+      "question_type": "Laboratory calculation",
+      "tested_concept": "Serum anion gap",
+      "stem": "A 30-year-old man presents after three days of lethargy, fever, and diarrhea. He is thirsty and orthostatic, and urinalysis shows glucosuria and ketonuria. Using the admission values shown, what is his serum anion gap in mEq/L?",
+      "visual_target": "The sodium, chloride, and bicarbonate values in the admission fishbone.",
+      "options": [
+        "5",
+        "12",
+        "18",
+        "23",
+        "35"
+      ],
+      "correct_index": 3,
+      "choice_rationales": [
+        "5 is the pictured potassium concentration, not the calculated anion gap.",
+        "12 is the pictured bicarbonate concentration, not the calculated anion gap.",
+        "18 does not result from applying the lecture formula to the pictured sodium, chloride, and bicarbonate values.",
+        "Using AG = Na − (Cl + HCO3), the calculation is 150 − (115 + 12) = 23 mEq/L.",
+        "35 equals sodium minus chloride alone and incorrectly omits bicarbonate from the calculation."
+      ],
+      "explanation": "The serum anion gap is 150 − (115 + 12) = 23 mEq/L, which the lecture classifies as elevated.",
+      "visual_clues": [
+        "Sodium is 150 mEq/L.",
+        "Chloride is 115 mEq/L and bicarbonate is 12 mEq/L."
+      ],
+      "citations": [
+        {
+          "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+          "page": 2,
+          "sha256": "e85f689469d0ff9a9759e0b8e7172179034c149e642d0ca100b67d0c4b9236b0"
+        },
+        {
+          "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+          "page": 3,
+          "sha256": "e85f689469d0ff9a9759e0b8e7172179034c149e642d0ca100b67d0c4b9236b0"
+        },
+        {
+          "document": "R35 Acid-Base Case Studies Advanced (Clinical) RLS.pdf",
+          "page": 4,
+          "sha256": "e85f689469d0ff9a9759e0b8e7172179034c149e642d0ca100b67d0c4b9236b0"
+        }
+      ],
+      "image": "assets/1590c04287f2104b99926146.webp",
+      "zoom_image": "assets/1590c04287f2104b99926146.png",
+      "original_image": "assets/24e2bfadc29a6e12fb041fe1.png",
+      "visual_qa": "PASS. The laboratory values are crisp and fully legible. The image supplies the numbers but does not display the calculated answer.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r25-posterior-urethral-valves",
+      "legacy_question_id": "q-6af74487eae4c4383e53",
+      "bank": "pathology",
+      "collection": "R25",
+      "question_type": "Clinical radiology",
+      "tested_concept": "Posterior urethral valves on voiding cystourethrography",
+      "stem": "A male newborn has bilateral hydronephrosis and a weak urinary stream. The voiding cystourethrogram shows a dilated posterior urethra with abrupt distal narrowing. Which diagnosis is most likely?",
+      "visual_target": "The dilated posterior urethra below the bladder and its abrupt distal taper.",
+      "options": [
+        "Primary vesicoureteral reflux",
+        "Duplex collecting system",
+        "Ureteropelvic junction obstruction",
+        "Multicystic dysplastic kidney",
+        "Posterior urethral valves"
+      ],
+      "correct_index": 4,
+      "choice_rationales": [
+        "Primary vesicoureteral reflux is retrograde flow from the bladder into the ureters and kidneys, not a dilated posterior urethra with distal narrowing.",
+        "A duplex collecting system produces two ureters from one kidney and does not create the pictured posterior-urethral obstruction.",
+        "Ureteropelvic junction obstruction usually produces upper-tract, often unilateral, hydronephrosis without dilation of the posterior urethra.",
+        "Multicystic dysplastic kidney is a nonfunctioning kidney with an abnormal renal contour, not a lower-tract obstructive VCUG pattern.",
+        "Posterior urethral valves occur in boys and produce congenital outlet obstruction with a dilated posterior urethra and bilateral hydronephrosis."
+      ],
+      "explanation": "The male newborn, bilateral hydronephrosis, weak stream, and dilated posterior urethra with abrupt narrowing identify posterior urethral valves.",
+      "visual_clues": [
+        "The posterior urethra is markedly dilated immediately below the bladder.",
+        "The urethra narrows abruptly more distally."
+      ],
+      "citations": [
+        {
+          "document": "R25 Renal Imaging - Part 1 (Radiology) RLS.pdf",
+          "page": 35,
+          "sha256": "2bd34ea415801c48cc2fc05f3d64f451ce990ab5b3f1ad86b5019cd9dc5b4291"
+        },
+        {
+          "document": "R25 Renal Imaging - Part 1 (Radiology) RLS.pdf",
+          "page": 36,
+          "sha256": "2bd34ea415801c48cc2fc05f3d64f451ce990ab5b3f1ad86b5019cd9dc5b4291"
+        },
+        {
+          "document": "R25 Renal Imaging - Part 1 (Radiology) RLS.pdf",
+          "page": 37,
+          "sha256": "2bd34ea415801c48cc2fc05f3d64f451ce990ab5b3f1ad86b5019cd9dc5b4291"
+        },
+        {
+          "document": "R25 Renal Imaging - Part 1 (Radiology) RLS.pdf",
+          "page": 38,
+          "sha256": "2bd34ea415801c48cc2fc05f3d64f451ce990ab5b3f1ad86b5019cd9dc5b4291"
+        },
+        {
+          "document": "R25 Renal Imaging - Part 1 (Radiology) RLS.pdf",
+          "page": 39,
+          "sha256": "2bd34ea415801c48cc2fc05f3d64f451ce990ab5b3f1ad86b5019cd9dc5b4291"
+        },
+        {
+          "document": "R25 Renal Imaging - Part 1 (Radiology) RLS.pdf",
+          "page": 41,
+          "sha256": "2bd34ea415801c48cc2fc05f3d64f451ce990ab5b3f1ad86b5019cd9dc5b4291"
+        }
+      ],
+      "image": "assets/6635757cf3cdd3e794a9f425.webp",
+      "zoom_image": "assets/6635757cf3cdd3e794a9f425.png",
+      "original_image": "assets/138002abb2c55e9f16ffdf5c.png",
+      "visual_qa": "PASS WITH LIMITATION. The source image is low resolution, but the dilated posterior urethra and distal narrowing remain clear. No diagnostic label is present.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r28-vhl-retinal-angioma",
+      "legacy_question_id": "q-6b1834e1b412467dda3d",
+      "bank": "pathology",
+      "collection": "R28",
+      "question_type": "Hereditary oncology association",
+      "tested_concept": "Von Hippel-Lindau disease and clear cell renal carcinoma",
+      "stem": "A patient with multifocal renal tumors has the retinal vascular lesion pictured. Which molecular abnormality best unifies these findings?",
+      "visual_target": "The retinal angioma with prominent feeding vessels and surrounding exudation.",
+      "options": [
+        "Loss of VHL at chromosome 3p25",
+        "MET activation with trisomy 7 and 17",
+        "Fumarate hydratase mutation",
+        "Folliculin loss on chromosome 17p",
+        "PTEN and p53 alterations"
+      ],
+      "correct_index": 0,
+      "choice_rationales": [
+        "The lecture links 3p25 loss and Von Hippel-Lindau disease to clear cell renal carcinoma, with retinal angiomas and multifocal renal tumors among the syndrome findings.",
+        "MET abnormalities with trisomy 7 and 17 are associated with papillary type I renal carcinoma, not the retinal-angioma syndrome.",
+        "Fumarate hydratase mutation causes hereditary leiomyomatosis and renal cell cancer, an aggressive papillary type II association.",
+        "Folliculin loss on 17p causes Birt-Hogg-Dubé syndrome, which the lecture links to fibrofolliculomas, pneumothorax, and oncocytic renal tumors.",
+        "PTEN and p53 alterations are listed with chromophobe carcinoma and do not unify multifocal renal tumors with retinal angiomas."
+      ],
+      "explanation": "Retinal angiomas plus multifocal renal tumors identify Von Hippel-Lindau disease, which is linked in the lecture to VHL loss at 3p25 and clear cell renal carcinoma.",
+      "visual_clues": [
+        "The fundus photograph shows a retinal vascular mass with enlarged vessels.",
+        "The stem adds bilateral multifocal renal tumors, narrowing the hereditary association."
+      ],
+      "citations": [
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 13,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 14,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 15,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 20,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 21,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 22,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 24,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        },
+        {
+          "document": "R28 Renal & Urinary Tract Malignancies (Urology - Part 1) RLS.pdf",
+          "page": 32,
+          "sha256": "870c026e93d4db49f91662a5922e23e88288ae0a6f3b76a18d8758b180c0ed07"
+        }
+      ],
+      "image": "assets/52b24222ace98cba2e279ded.webp",
+      "zoom_image": "assets/52b24222ace98cba2e279ded.png",
+      "original_image": "assets/c69f4a0e8c6a59d89639019c.png",
+      "visual_qa": "PASS. The retinal vascular lesion is visible without a syndrome label, and the image is necessary to connect the renal findings to the hereditary syndrome.",
+      "ground_truth_confidence": "high"
+    },
+    {
+      "calibration_id": "cal-r29-pulmonary-metastases",
+      "legacy_question_id": "q-bb5e1efc969b05264bb4",
+      "bank": "pathology",
+      "collection": "R29",
+      "question_type": "Oncologic staging imaging",
+      "tested_concept": "Hematogenous pulmonary metastases from renal malignancy",
+      "stem": "A patient with a renal malignancy undergoes staging. The chest CT shows numerous well-circumscribed nodules of varying sizes in both lungs. Which metastatic pattern from the lecture is present?",
+      "visual_target": "The multiple bilateral round pulmonary nodules on axial chest CT.",
+      "options": [
+        "Direct extension through the peripheral renal fascia",
+        "Hematogenous pulmonary metastases",
+        "Regional lymph-node metastases",
+        "Distant hepatic metastases",
+        "Lytic osseous metastases"
+      ],
+      "correct_index": 1,
+      "choice_rationales": [
+        "Direct extension is contiguous invasion around the primary renal mass and would not create scattered bilateral lung nodules.",
+        "The lecture labels multiple bilateral pulmonary nodules from renal malignancy as hematogenous lung metastases.",
+        "Regional lymph-node metastases appear as nodal disease rather than numerous rounded nodules throughout both lungs.",
+        "Hepatic metastases are distant lesions in the liver, not the pulmonary pattern shown here.",
+        "Lytic osseous metastases involve bone and do not produce the pictured intrapulmonary nodules."
+      ],
+      "explanation": "Numerous well-defined nodules of varied size in both lungs represent hematogenous pulmonary metastases in the lecture's stage IV renal malignancy examples.",
+      "visual_clues": [
+        "There are many separate round nodules in both lungs.",
+        "The nodules vary in size and are distributed hematogenously rather than along a single contiguous plane."
+      ],
+      "citations": [
+        {
+          "document": "R29 Renal Imaging - Part 2 (Radiology) RLS.pdf",
+          "page": 22,
+          "sha256": "3e9e5a35d83ac4c96b4cad5b9a8eb6ea745762a397b8401e02767d7be6f29f06"
+        }
+      ],
+      "image": "assets/dc04a1dc551b640a6dd8c4ad.webp",
+      "zoom_image": "assets/dc04a1dc551b640a6dd8c4ad.png",
+      "original_image": "assets/a74ffb98b5bf747d3a4d157a.png",
+      "visual_qa": "PASS. The bilateral pulmonary nodules are clear and no staging or diagnosis label is embedded in the learner image.",
+      "ground_truth_confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "lectures": {
+    "R14": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Jones silver glomerular outlines",
+        "Renal cortical region",
+        "RBC casts in nephritic urine",
+        "Glomeruli in renal cortex",
+        "Renal artery on PAS",
+        "Glomerulus in toluidine-blue section"
+      ],
+      "gaps": [
+        "Some user captures remain reference-only pending a distinct safe visual target."
+      ],
+      "next_capture": "No additional capture is required for the current scored set.",
+      "basis": "9 manual captures reviewed; 6 scored questions added after RLS alignment."
+    },
+    "R15": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Acyclovir needle crystals",
+        "Struvite coffin-lid crystal",
+        "Calcium oxalate dihydrate envelope",
+        "Calcium oxalate monohydrate form",
+        "Calcium phosphate rosette",
+        "Coarsely granular cast",
+        "Cystine hexagonal crystals",
+        "Polarized lipid in fatty casts",
+        "Dysmorphic RBCs in glomerular hematuria",
+        "RBC cast in glomerular sediment",
+        "Indinavir sunburst crystals",
+        "Eumorphic RBC morphology",
+        "Sulfadiazine shocks of wheat",
+        "Uric acid rhomboid crystals",
+        "Waxy broad cast",
+        "Renal tubular epithelial cells in sediment",
+        "White blood cells in sediment",
+        "Muddy brown cast in ATN"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture is required for the current scored set.",
+      "basis": "27 manual captures reviewed; 18 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R16": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Proximal apical Na⁺/H⁺ exchange",
+        "TAL lumen-positive Ca²⁺/Mg²⁺ pathway"
+      ],
+      "gaps": [
+        "Fully labeled or repetitive captures remain Source review, not scored."
+      ],
+      "next_capture": "No additional capture required for the current scored set.",
+      "basis": "6 manual captures reviewed and aligned to the RLS; 2 scored."
+    },
+    "R17": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "ADH-triggered AQP2 apical insertion",
+        "ENaC-linked K⁺ secretion",
+        "DCT thiazide-associated calcium retention",
+        "Thiazide urinary calcium pattern",
+        "Aldosterone antagonist urinary potassium pattern",
+        "Loop diuretic diuresis magnitude",
+        "Loop diuretic maximum filtered sodium excreted",
+        "Loop diuretic urinary calcium pattern"
+      ],
+      "gaps": [
+        "Fully labeled or repetitive captures remain Source review, not scored."
+      ],
+      "next_capture": "No additional capture required for the current scored set.",
+      "basis": "7 manual captures reviewed and aligned to the RLS; 4 scored."
+    },
+    "R19": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Amyloid mesangial expansion",
+        "Diabetic nodular mesangial sclerosis",
+        "Membranous granular capillary IF",
+        "Minimal change near-normal LM",
+        "FSGS segmental sclerosis"
+      ],
+      "gaps": [
+        "Other captures are retained as reference-only until a distinct, leak-free, source-defensible visual task is established."
+      ],
+      "next_capture": "No additional capture required for the current scored set.",
+      "basis": "25 manual captures visually screened; 5 source-grounded scored visual questions; remaining captures reference-only."
+    },
+    "R20": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Pyelonephritis neutrophilic tubules",
+        "ATI intratubular epithelial debris",
+        "Mild ATI epithelial flattening",
+        "Emphysematous pyelonephritis gas on CT",
+        "Granulomatous interstitial inflammation",
+        "BK nephropathy in allograft",
+        "Nuclear viral particles by EM",
+        "Chronic pyelonephritis scarring",
+        "Xanthogranulomatous pyelonephritis macrophages",
+        "Light chain cast nephropathy",
+        "Bacterial colony in pyelonephritis",
+        "Renal abscess"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture required for the current scored set.",
+      "basis": "41 manual captures reviewed; 12 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R21": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Acute arteriolar fibrinoid necrosis",
+        "Glomerular capillary fibrin thrombus",
+        "Atheroembolic cholesterol clefts",
+        "Chronic TMA double contour",
+        "Diffuse cortical necrosis gross pattern",
+        "Ischemic glomerular collapse",
+        "Renal vein thrombosis on CT",
+        "Polyarteritis nodosa vessel wall",
+        "Chronic arteriolar and arterial lesions",
+        "Atherosclerotic renal artery narrowing"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture required for the current scored set.",
+      "basis": "43 manual captures reviewed; 10 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R22": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "ADPKD gross enlarged multicystic kidney",
+        "Duplex collecting system",
+        "Horseshoe kidney CT isthmus",
+        "Horseshoe kidney lower-pole fusion"
+      ],
+      "gaps": [
+        "Other captures are retained as reference-only until a distinct, leak-free, source-defensible visual task is established."
+      ],
+      "next_capture": "No additional capture required for the current scored set.",
+      "basis": "15 manual captures visually screened; 4 source-grounded scored visual questions; remaining captures reference-only."
+    },
+    "R34": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Amyloid Congo-red birefringence",
+        "Glomerular fibrinoid necrosis",
+        "Eosinophil-rich interstitial infiltrate",
+        "Linear capillary-wall IgG",
+        "Nodular mesangial expansion",
+        "Segmental glomerular tuft sclerosis",
+        "Granular mesangial IgA distribution",
+        "Purpuric eruption",
+        "Granular glomerular IgG distribution",
+        "Membranous thickened capillary loops",
+        "Normal smooth glomerular capillary loops",
+        "Glomerular capillary fibrin thrombi",
+        "Cellular crescent with fibrinoid necrosis",
+        "Mesangial proliferation"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional R34 capture required for this scored batch.",
+      "basis": "89 manual captures reviewed; 14 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R35": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Case 1 serum anion gap",
+        "Case 2 primary metabolic alkalosis",
+        "Case 3 day-4 post-hypercapnic alkalosis",
+        "Case 4 osmolal gap"
+      ],
+      "gaps": [
+        "Eight other captures retained as reference-only pending a separate scored-task decision."
+      ],
+      "next_capture": "No additional R35 capture needed for this batch.",
+      "basis": "12 eligible R35 manual PNGs visually triaged; four case-lab graphics selected for scored questions."
+    },
+    "R18": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Cellular crescent",
+        "Membranoproliferative pattern of injury",
+        "GBM tram-track double contours",
+        "Intramembranous dense deposits",
+        "Subepithelial hump deposit",
+        "Full-house immunofluorescence pattern",
+        "Alport basket-weave GBM",
+        "GBM fracture in crescentic injury",
+        "Pulmonary hemorrhage in Goodpasture syndrome",
+        "Podocyte foot process effacement"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "64 manual captures reviewed; 10 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R22.2": {
+      "status": "Reference-only",
+      "tested_summary": [],
+      "gaps": [
+        "No leak-free, distinct scored task selected from this folder."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "33 eligible manual PNGs contact-sheet triaged; 0 selected for scored questions. _Not for quiz excluded."
+    },
+    "R25": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Bilateral macrocystic renal contour",
+        "Bilateral smooth enlarged renal contours",
+        "Connected central collecting-system dilation",
+        "Crossed renal ectopia",
+        "Fused lower-pole renal isthmus",
+        "Multiple noncommunicating renal cysts",
+        "Perinephric fluid collection",
+        "Simple renal ectopia",
+        "Unilateral renal agenesis",
+        "Posterior urethral valves on VCUG",
+        "Ultrasound-guided renal biopsy needle",
+        "Small echogenic kidney in chronic disease",
+        "Hydronephrosis on MR urogram"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "113 manual captures reviewed; 13 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R28": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Left pneumothorax",
+        "Chromophobe cell halos",
+        "Multifocal renal masses",
+        "Oncocytoma gross appearance",
+        "Retinal angioma in VHL",
+        "Fibrofolliculomas in Birt-Hogg-Dube",
+        "Papillary renal cell carcinoma type II"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "71 manual captures reviewed; 7 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R29": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Intraluminal bladder mass",
+        "Simple-fluid T1/T2 signal reversal",
+        "Simple renal cyst sonographic pattern",
+        "Branching staghorn calculus",
+        "Hematogenous lung metastases",
+        "Fat attenuation on CT",
+        "Fat echogenicity on ultrasound",
+        "Bilateral hydroureteronephrosis on urogram",
+        "Lytic bone metastasis"
+      ],
+      "gaps": [
+        "Remaining captures stay reference-only because they carry answer-bearing labels, repeat a scored target, or lack a distinct leak-free task."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "109 manual captures reviewed; 9 scored visual questions after the 2026-10-19 candidate review. Coverage remains partial."
+    },
+    "R23": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Free-water loss causing hypertonic volume contraction",
+        "ECF volume decreases while ICF volume and tonicity remain unchanged",
+        "Low urine Na⁺ from increased tubular sodium reabsorption triggered by reduced effective arterial blood volume",
+        "Hyperosmolality without equivalent hypertonicity because urea is an ineffective osmole",
+        "Increased thirst and ADH with reduced urine volume and increased urine concentration",
+        "Increased proximal sodium and water reabsorption with increased passive urea reabsorption",
+        "ADH-dependent increase in collecting-duct water permeability",
+        "Reduced effective arterial blood volume stimulates renal sodium retention",
+        "A nonosmotic low-effective-volume signal overrides osmotic suppression of ADH",
+        "Isotonic loss causes greater ECF and effective-volume depletion, while free-water loss raises tonicity and contracts cells"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "10 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R30": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Classic distal type 1 RTA from failure of distal H⁺ secretion",
+        "Proximal type 2 RTA from impaired HCO₃⁻ reclamation",
+        "Type 4 RTA with hyperkalemia reducing NH₃ availability and therefore NH₄⁺ excretion",
+        "Voltage-mediated distal type 1 RTA with impaired H⁺ and K⁺ excretion"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "4 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R26": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Carpopedal spasm in hypocalcemia"
+      ],
+      "gaps": [
+        "Other manual captures retained as reference-only after visual triage; no forced question for answer-labeled, repeated, or ambiguous visuals."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "24 eligible manual PNGs contact-sheet triaged; 1 selected for scored questions. _Not for quiz excluded."
+    },
+    "R31": {
+      "status": "Partial coverage",
+      "tested_summary": [
+        "Combined GFR and albuminuria category",
+        "Finerenone UACR dose response",
+        "Automated peritoneal dialysis apparatus",
+        "G2 and A1 risk map cell",
+        "G3a and A1 risk map cell",
+        "G3b and A3 risk map cell",
+        "G5 and A1 risk map cell"
+      ],
+      "gaps": [
+        "Other manual captures retained as reference-only after visual triage; no forced question for answer-labeled, repeated, or ambiguous visuals."
+      ],
+      "next_capture": "No additional capture required for this reviewed manual set.",
+      "basis": "41 eligible manual PNGs contact-sheet triaged; 3 selected for scored questions. _Not for quiz excluded."
+    },
+    "R24": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Sodium-containing fluid loss with volume-contraction–driven nonosmotic ADH retention of water",
+        "0.9% sodium chloride",
+        "Glucose raises ECF tonicity, drawing water from ICF and diluting extracellular sodium",
+        "Isotonic pseudohyponatremia from increased nonaqueous plasma fraction",
+        "Total body sodium is increased, but water is increased more because low effective arterial volume sustains ADH",
+        "Serum Na⁺ reports sodium relative to water, not total body sodium content",
+        "Low daily osmole excretion limits the maximum volume of dilute urine that can be excreted",
+        "Water moves from hypotonic ECF into brain cells, causing cellular swelling",
+        "Approximately two thirds enters ICF and one third remains in ECF",
+        "Classify the patient as hypertonic, then assess ECF volume independently from examination and losses"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "10 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R27": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Isotonic volume contraction with low-effective-volume sodium conservation, hyperchloremic acidosis, and potassium loss; give saline plus potassium",
+        "Total sodium and water are increased, but low effective arterial volume activates RAAS and ADH so water gain exceeds sodium gain",
+        "Hypovolemic hypotonic hyponatremia; restore ECF with isotonic saline",
+        "Hypertonic volume depletion from HHS; begin isotonic saline before insulin",
+        "SIADH with inappropriately concentrated urine",
+        "Patient A has greater isolated ECF and effective-volume loss; Patient B develops hypertonicity with water leaving cells",
+        "Excess electrolyte-free water delivered as metabolized D5W",
+        "Hypovolemic hypotonic hyponatremia with vomiting-induced metabolic alkalosis",
+        "Thiazide-associated hyponatremia",
+        "Combined thiazide-associated sodium loss and vomiting-induced volume contraction sustain ADH and severe hypotonic hyponatremia",
+        "Cerebral salt wasting",
+        "Hypervolemic hypotonic hyponatremia with low effective arterial volume and persistent ADH",
+        "Low solute intake limits total free-water excretion despite appropriate urine dilution",
+        "Psychogenic polydipsia overwhelming renal water excretory capacity",
+        "Sweat causes salt and volume loss, then disproportionate solute-free water replacement lowers serum sodium",
+        "Isotonic pseudohyponatremia from an increased nonaqueous protein fraction",
+        "Ectopic ADH produces euvolemic hypotonic hyponatremia",
+        "Severe water deprivation and insensible loss exceeded sodium loss while volume contraction limited renal sodium and bicarbonate losses",
+        "Insufficient prescribed free water plus ongoing insensible water loss",
+        "Hypercalcemia-induced nephrogenic diabetes insipidus with impaired renal response to ADH",
+        "Primary hyperaldosteronism causing sodium retention, potassium loss, and volume-expanded hypertension",
+        "Multifactorial water deficit from diarrhea, loop diuresis, fluid restriction, and impaired renal concentration superimposed on edematous CKD"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "22 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R36": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Aminoglycoside proximal tubular toxicity causing acute tubular necrosis with a supratherapeutic trough",
+        "Amphotericin B causes renal tubular potassium and magnesium wasting",
+        "Cisplatin tubular toxicity causing ATN, renal tubular acidosis, and magnesium wasting",
+        "Watch for overdiuresis with hypotension, hypokalemia, interstitial nephritis with WBC casts, and dose-related ototoxicity",
+        "Nephrogenic systemic fibrosis with skin thickening, indurated plaques or nodules, burning, and joint contractures",
+        "Secondary focal segmental glomerulosclerosis",
+        "Candidate B because CKD, NSAIDs, hypotension, comorbidity, and a larger iodinated IV contrast dose converge",
+        "Lithium-associated nephrogenic diabetes insipidus",
+        "NSAIDs",
+        "Ertapenem-induced acute interstitial nephritis"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "10 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R37": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Myoglobin-mediated pigment nephropathy causing acute tubular necrosis",
+        "Anti-GBM disease with linear IgG staining along glomerular basement membranes",
+        "Drug-induced acute interstitial nephritis affecting the tubulointerstitium"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "3 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R32": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Insulin deficiency and hyperosmolality shift K⁺ out of cells; insulin and volume treatment drive K⁺ back into cells",
+        "Give IV calcium for membrane stabilization, then shift K⁺ with insulin plus dextrose and other temporizing measures",
+        "Obtain an ECG and promptly repeat a properly collected sample for suspected pseudohyperkalemia",
+        "Digitalis in acute kidney injury with continued K⁺ supplementation contributes to hyperkalemia; hold both and address the cardiorenal state",
+        "Low renin with high aldosterone, supporting primary hyperaldosteronism"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "5 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R38": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Ischemic and nephrotoxic acute tubular necrosis culminating during septic shock"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "1 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R39": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Primary hyperaldosteronism causing renal K⁺ and H⁺ loss with volume-expanded hypertension"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "1 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    },
+    "R41": {
+      "status": "Case coverage complete for identified lecture cases",
+      "tested_summary": [
+        "Postinfectious glomerulonephritis",
+        "Anti-GBM disease with linear glomerular IgG",
+        "Lupus nephritis with granular full-house immunofluorescence",
+        "Regenerating acute tubular injury with mitoses and casts, followed by a diuretic phase that risks volume and electrolyte loss",
+        "Struvite stone from urease-producing infection with obstruction promoting acute pyelonephritis"
+      ],
+      "gaps": [
+        "Non-case lecture objectives may remain outside the scored visual bank."
+      ],
+      "next_capture": "No additional capture is required for the identified table-first case set.",
+      "basis": "5 distinct lecture cases converted to source-cited primary data-table Visual Questions in lecture-case-expansion-2026-10-24."
+    }
+  }
+}

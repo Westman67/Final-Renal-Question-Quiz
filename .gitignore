@@ -1,0 +1,18 @@
+.DS_Store
+.playwright-cli/
+dist/
+dist-full/
+node_modules/
+__pycache__/
+*.py[cod]
+*.log
+backups/
+output/
+test-results/
+tmp/
+README 2.md
+app 2.js
+bank-config 2.js
+data/* 2.json
+data/pathology/* 2.json
+tests/* 2.mjs

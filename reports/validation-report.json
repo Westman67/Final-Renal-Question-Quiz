@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-30",
+  "status": "PASS",
+  "source_files": 16,
+  "source_families": 12,
+  "scored_sources": 7,
+  "questions": 12,
+  "reference_only": 6,
+  "duplicate_views": 3,
+  "automated_tests": 11,
+  "source_hashes": "16 unchanged",
+  "pixel_integrity": "7 lossless variants unchanged outside explicit label regions",
+  "visual_review": "All 7 lossless PNG and 7 display WebP variants individually viewed; all 12 stems, choices and rationales reviewed; desktop Learn, mobile Exam, results and corrected mobile navigation inspected.",
+  "browser_checks": [
+    "All 12 scored images decode",
+    "Draft survives Next and Back",
+    "Locked answer survives navigation and reload",
+    "Learn reveals four aligned rationales only after submission",
+    "Keanne correction preserves attempt count and selected option",
+    "Exam hides feedback until completion",
+    "Skipped question reported separately",
+    "Zoom resets on navigation",
+    "390-pixel mobile viewport has no horizontal overflow",
+    "16 source-review records",
+    "Local decision save",
+    "Progress export and import",
+    "Image flag resolution and deliberate reopen",
+    "Static dist loads under subdirectory",
+    "Local app works with external network requests blocked"
+  ],
+  "limitations": [
+    "R1 pilot only, not full lecture coverage",
+    "No deployment or upload performed",
+    "Public redistribution permission not verified",
+    "Browser-local progress requires export/import across browsers and site addresses"
+  ],
+  "menu_update": {
+    "date": "2026-09-30",
+    "version": "20260930r2",
+    "change": "Mode and session length dropdowns replaced by accessible single-select boxes",
+    "status": "PASS",
+    "checks": [
+      "Both modes and all five lengths reach session correctly",
+      "One selected option per group",
+      "Keyboard arrow navigation",
+      "Selections survive other filter changes",
+      "Desktop and 390px mobile layouts inspected",
+      "Eight engine tests pass",
+      "Static dist rebuilt"
+    ]
+  },
+  "ui_improvements": {
+    "date": "2026-09-30",
+    "version": "20260930r3",
+    "status": "PASS",
+    "changes": [
+      "Mobile question heading appears before the image",
+      "Compact mobile home puts practice controls first",
+      "Start button displays actual filtered session size",
+      "Mode, length, lecture selection, category and question filters persist separately from progress",
+      "Fullscreen quiz image with zoom and pan before answering; teaching originals remain feedback-gated",
+      "Multi-select lecture boxes and source-backed coverage summary with explicit gaps"
+    ],
+    "checks": [
+      "All 11 automated tests pass",
+      "Desktop and 390px mobile screens visually inspected",
+      "No answer-option overlap from navigation controls",
+      "Actual session count verified for requested 40 with 12 and 6 available",
+      "Preference restoration after reload",
+      "Lecture selection supports all, individual, mixed and empty; R2 tested only as isolated browser fixture",
+      "Unknown lecture coverage explicitly marked unaudited",
+      "Pre-answer fullscreen uses safe quiz asset",
+      "Exam still hides teaching original and feedback before completion",
+      "Fullscreen fills viewport; zoom, fit and Escape verified",
+      "All original source hashes unchanged"
+    ]
+  }
+}

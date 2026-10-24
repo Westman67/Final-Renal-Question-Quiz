@@ -1,0 +1,2640 @@
+{
+  "schema_version": 2,
+  "items": [
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.17.18 PM.png",
+      "extension": ".png",
+      "bytes": 623290,
+      "sha256": "bb5305e9ee8304dbd27275cd47cbbd7688b78bd9d9c4e9882bb4a9a5890e23eb",
+      "kind": "raster",
+      "width": 826,
+      "height": 762,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 0.629,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 1,
+      "asset_id": "asset-bb5305e9ee8304db",
+      "source_id": "src-bb5305e9ee8304db",
+      "source_group_id": "group-bb5305e9ee8304db",
+      "perceptual_hash": "a88c868484c46633",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "SEM",
+      "tested_concept": "Podocyte overview",
+      "review_reason": "Answer text lies directly on tissue. Use as teaching reference, not an erased-tissue identification item.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 1,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Answer text lies directly on tissue. Use as teaching reference, not an erased-tissue identification item."
+        }
+      ],
+      "original_asset": "assets/bb5305e9ee8304dbd27275cd.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.18.05 PM.png",
+      "extension": ".png",
+      "bytes": 2917347,
+      "sha256": "70be6f48a58cdc5cfa49f7753653a2a289be6b713d298e0e55000a5642a74517",
+      "kind": "raster",
+      "width": 1298,
+      "height": 1352,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 1.755,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 4,
+      "asset_id": "asset-70be6f48a58cdc5c",
+      "source_id": "src-70be6f48a58cdc5c",
+      "source_group_id": "group-70be6f48a58cdc5c",
+      "perceptual_hash": "5be626992e2d4c75",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Cortical renal corpuscle",
+      "review_reason": "Labels over tissue. Same field as captures 5, 6, and 16.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 4,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Labels over tissue. Same field as captures 5, 6, and 16."
+        }
+      ],
+      "original_asset": "assets/70be6f48a58cdc5cfa49f775.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.18.29 PM.png",
+      "extension": ".png",
+      "bytes": 2787558,
+      "sha256": "2c726522c904af2530782fe83778aab9df783211c59521276ffb924e52426814",
+      "kind": "raster",
+      "width": 1272,
+      "height": 1370,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 1.743,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 5,
+      "asset_id": "asset-2c726522c904af25",
+      "source_id": "src-2c726522c904af25",
+      "source_group_id": "group-70be6f48a58cdc5c",
+      "perceptual_hash": "5be616192e2dc965",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "DUPLICATE",
+      "modality": "Histology",
+      "tested_concept": "Cortical renal corpuscle",
+      "review_reason": "Progressive labels on same field as capture 4. Teaching alternative only.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 5,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Progressive labels on same field as capture 4. Teaching alternative only."
+        }
+      ],
+      "original_asset": "assets/2c726522c904af2530782fe8.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.18.59 PM.png",
+      "extension": ".png",
+      "bytes": 3548476,
+      "sha256": "7dcb22959e522e0c1ceeb6fbb189328845b5616ef2267d44cda7f8823b1b0e8c",
+      "kind": "raster",
+      "width": 2074,
+      "height": 1362,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 2.825,
+      "has_transparency": true,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 6,
+      "asset_id": "asset-7dcb22959e522e0c",
+      "source_id": "src-7dcb22959e522e0c",
+      "source_group_id": "group-70be6f48a58cdc5c",
+      "perceptual_hash": "3d313236f6ca306b",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "DUPLICATE",
+      "modality": "Histology",
+      "tested_concept": "Cortical tubules",
+      "review_reason": "Same field as capture 4, with tissue labels and pre-existing opaque block. No reconstruction.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 6,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Same field as capture 4, with tissue labels and pre-existing opaque block. No reconstruction."
+        }
+      ],
+      "original_asset": "assets/7dcb22959e522e0c1ceeb6fb.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.20.52 PM.png",
+      "extension": ".png",
+      "bytes": 3504965,
+      "sha256": "f45095ab2e5ccfdfdc290f2648c59a43cbd91fdf37c413b2c82c1539eb3f97e6",
+      "kind": "raster",
+      "width": 1826,
+      "height": 1188,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 2.169,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 9,
+      "asset_id": "asset-f45095ab2e5ccfdf",
+      "source_id": "src-f45095ab2e5ccfdf",
+      "source_group_id": "group-f45095ab2e5ccfdf",
+      "perceptual_hash": "c60b1a13363e1f5c",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Ureter",
+      "review_reason": "Organ title and tissue labels. Retain teaching original rather than conceal meaningful pixels.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 13,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Organ title and tissue labels. Retain teaching original rather than conceal meaningful pixels."
+        }
+      ],
+      "original_asset": "assets/f45095ab2e5ccfdfdc290f26.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.21.00 PM.png",
+      "extension": ".png",
+      "bytes": 2773351,
+      "sha256": "985f52f90e4f5d214dc2d79fca53bb92fcb6b40d4a284eb8835692fefe460e34",
+      "kind": "raster",
+      "width": 1792,
+      "height": 950,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 1.702,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 10,
+      "asset_id": "asset-985f52f90e4f5d21",
+      "source_id": "src-985f52f90e4f5d21",
+      "source_group_id": "group-985f52f90e4f5d21",
+      "perceptual_hash": "ce0e6202918a81c3",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Bladder",
+      "review_reason": "Tissue labels and no sufficiently justified complete unlabelled panel selected for scoring.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 14,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Tissue labels and no sufficiently justified complete unlabelled panel selected for scoring."
+        }
+      ],
+      "original_asset": "assets/985f52f90e4f5d214dc2d79f.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.21.53 PM.png",
+      "extension": ".png",
+      "bytes": 385187,
+      "sha256": "db9d00d7fb3018e898d3eeac4b80ba0f4488dc787c2f227710094bdbef652dda",
+      "kind": "raster",
+      "width": 856,
+      "height": 448,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 0.383,
+      "has_transparency": false,
+      "warnings": [
+        "low_resolution_dimension"
+      ],
+      "decode_status": "ok",
+      "capture_number": 11,
+      "asset_id": "asset-db9d00d7fb3018e8",
+      "source_id": "src-db9d00d7fb3018e8",
+      "source_group_id": "group-db9d00d7fb3018e8",
+      "perceptual_hash": "08515a19078f4e1c",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "SEM",
+      "tested_concept": "Podocyte surface",
+      "review_reason": "Tissue label and low native height. Inset not selected because it lacks sufficient independent detail.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.1 Review - Kidney Structure.pdf",
+        "page": 6,
+        "sha256": "8513256d8e58a00687b8090829e4e03f114f564dabff91e30e3edef203b92091"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Tissue label and low native height. Inset not selected because it lacks sufficient independent detail."
+        }
+      ],
+      "original_asset": "assets/db9d00d7fb3018e898d3eeac.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.22.15 PM.png",
+      "extension": ".png",
+      "bytes": 493077,
+      "sha256": "b88445214ab8a3b0c39c60fd6ab4b353ba5b1fbd64f33936672f4970a3b137e6",
+      "kind": "raster",
+      "width": 700,
+      "height": 982,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 0.687,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 13,
+      "asset_id": "asset-b88445214ab8a3b0",
+      "source_id": "src-b88445214ab8a3b0",
+      "source_group_id": "group-b88445214ab8a3b0",
+      "perceptual_hash": "e18167c3d9710f0c",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "TEM",
+      "tested_concept": "Barrier overview",
+      "review_reason": "Teaching overview paired with capture 14. Retain without trying to reconstruct the missing adjoining panel.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.1 Review - Kidney Structure.pdf",
+        "page": 7,
+        "sha256": "8513256d8e58a00687b8090829e4e03f114f564dabff91e30e3edef203b92091"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Teaching overview paired with capture 14. Retain without trying to reconstruct the missing adjoining panel."
+        }
+      ],
+      "original_asset": "assets/b88445214ab8a3b0c39c60fd.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R1/Screenshot 2026-09-29 at 12.57.25 PM.png",
+      "extension": ".png",
+      "bytes": 2993625,
+      "sha256": "7235204b102d7762445cb6772729d54014f5510ab1fdd3cead91854c15164d00",
+      "kind": "raster",
+      "width": 1704,
+      "height": 1132,
+      "format": "PNG",
+      "mode": "RGBA",
+      "megapixels": 1.929,
+      "has_transparency": false,
+      "warnings": [],
+      "decode_status": "ok",
+      "capture_number": 16,
+      "asset_id": "asset-7235204b102d7762",
+      "source_id": "src-7235204b102d7762",
+      "source_group_id": "group-70be6f48a58cdc5c",
+      "perceptual_hash": "4c490e06a6aa306b",
+      "perceptual_hash_method": "64-bit dHash, grayscale 9x8, comparison horizontal",
+      "source_origin": "lecture",
+      "acquisition": "user manual screenshot visually matched to authoritative R1 lecture",
+      "lecture_id": "R1",
+      "system": "Renal",
+      "status": "DUPLICATE",
+      "modality": "Histology",
+      "tested_concept": "Macula densa teaching view",
+      "review_reason": "Same field as capture 4 with progressive labels and teaching overlay. Additional annotations are visible in the annotated lecture version.",
+      "ground_truth_basis": "Visible source labels and matched lecture figure, corroborated by R1 transcripts",
+      "source_citation": {
+        "document": "R1.2 Review - Renal Histology.pdf",
+        "page": 6,
+        "sha256": "3636356c86bc8b86e4ac579e0fde04f36fa0f62ae91afc2b050913860843e522"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "variant_review_complete": true,
+      "question_type_matrix": [
+        {
+          "type": "Visual identification or comparison",
+          "supported": "NO",
+          "reason": "Same field as capture 4 with progressive labels and teaching overlay. Additional annotations are visible in the annotated lecture version."
+        }
+      ],
+      "original_asset": "assets/7235204b102d7762445cb677.png",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R6/Proximal Tubule Histo.png",
+      "extension": ".png",
+      "bytes": 337762,
+      "sha256": "1ddce3e5801170c7b7c31a352a91bf798e8341053843cc50fcfbb31f5ed16e18",
+      "kind": "raster",
+      "width": 464,
+      "height": 436,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-1ddce3e5801170c7",
+      "source_id": "src-1ddce3e5801170c7",
+      "source_group_id": "group-7f3ccd0278767bee",
+      "perceptual_hash": "e8e8f2ccceccc9c9",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R6",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Proximal tubule H&E",
+      "review_reason": "Low-resolution H&E crop and labels over tissue do not support a strong single-best-answer scored identification.",
+      "ground_truth_basis": "Visible RLS capture matched to verified R6 RLS page and transcript/Notes teaching",
+      "source_citation": {
+        "document": "R6 Proximal Tubule (Physiology) RLS.pdf",
+        "page": 4,
+        "sha256": "3068b178bb02244d4b32410e5a1cca374e75b541f40fc3bd808d9a37c747afea"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/1ddce3e5801170c7b7c31a35.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual targets",
+          "supported": "NO",
+          "reason": "Low-resolution H&E crop and labels over tissue do not support a strong single-best-answer scored identification."
+        }
+      ],
+      "visual_review": "Original inspected full-size; excluded from scoring because the H&E image is soft or answer labels overlap tissue.",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R6/Peritubular Capillary Lumen in the Proximal Tubule Histo.png",
+      "extension": ".png",
+      "bytes": 934724,
+      "sha256": "60923050080275e713b3027ebf3e5c2de23cde69eb3532aef511d2fe0b58dc13",
+      "kind": "raster",
+      "width": 744,
+      "height": 984,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-60923050080275e7",
+      "source_id": "src-60923050080275e7",
+      "source_group_id": "group-7f3ccd0278767bee",
+      "perceptual_hash": "2f594d4d4d514d0c",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R6",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Proximal tubule H&E annotated alternate",
+      "review_reason": "Same H&E field as other capture with PT label printed directly on tissue; removing it would cover diagnostic pixels. The user renamed this exact-hash capture; the new path is an alias, not a new image.",
+      "ground_truth_basis": "Visible RLS capture matched to verified R6 RLS page and transcript/Notes teaching",
+      "source_citation": {
+        "document": "R6 Proximal Tubule (Physiology) RLS.pdf",
+        "page": 4,
+        "sha256": "3068b178bb02244d4b32410e5a1cca374e75b541f40fc3bd808d9a37c747afea"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/60923050080275e713b3027e.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual targets",
+          "supported": "NO",
+          "reason": "Same H&E field as other capture with PT label printed directly on tissue; removing it would cover diagnostic pixels."
+        }
+      ],
+      "visual_review": "Original inspected full-size; excluded from scoring because the H&E image is soft or answer labels overlap tissue.",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion.",
+      "aliases": [
+        "R6/Screenshot 2026-10-03 at 12.51.49 PM.png"
+      ]
+    },
+    {
+      "relative_path": "R7/Collecting Duct Lumen Histo.png",
+      "extension": ".png",
+      "bytes": 251358,
+      "sha256": "1c42ee1003c4a08fa94ee1f390b1b38070de8d09d9e1bb479721121050c3b8bb",
+      "kind": "raster",
+      "width": 376,
+      "height": 370,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-1c42ee1003c4a08f",
+      "source_id": "src-1c42ee1003c4a08f",
+      "source_group_id": "group-1c42ee1003c4a08f",
+      "perceptual_hash": "e1d08c9696cee4a0",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R7",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Collecting-duct H&E teaching field",
+      "review_reason": "Small soft H&E field has CD answer text in lumen and blue blood annotation over tissue; after masking, independent duct recognition is not strong enough.",
+      "ground_truth_basis": "Visible user RLS capture matched to verified R7 RLS p. 15, professor Notes, and transcript Part 3",
+      "source_citation": {
+        "document": "R7 Countercurrent Mechanism, Distal Tubule & Collecting Duct (Physiology) RLS.pdf",
+        "page": 15,
+        "sha256": "ca50759a8866ae8e12f54eddb5bacbed1ecdf0e3439754ce383224629aa42c5a"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/1c42ee1003c4a08fa94ee1f3.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual targets",
+          "supported": "NO",
+          "reason": "Small soft H&E field has CD answer text in lumen and blue blood annotation over tissue; after masking, independent duct recognition is not strong enough."
+        }
+      ],
+      "visual_review": "Original inspected full-size; excluded because low resolution, direct labeling, or clipped tissue prevents reliable scoring.",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R7/Distal Tubule Lumen Histo.png",
+      "extension": ".png",
+      "bytes": 229083,
+      "sha256": "5e38009e690b7313a120823179e8fab41ec9de84ad763b647b971e98081ae6a3",
+      "kind": "raster",
+      "width": 490,
+      "height": 284,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-5e38009e690b7313",
+      "source_id": "src-5e38009e690b7313",
+      "source_group_id": "group-5e38009e690b7313",
+      "perceptual_hash": "b2d8a43626268ece",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R7",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Histology",
+      "tested_concept": "Distal-tubule H&E teaching field",
+      "review_reason": "Soft low-resolution H&E crop is directly labeled inside its lumen and cuts off part of the lower tubular wall; unlabelled segment identification would be weak.",
+      "ground_truth_basis": "Visible user RLS capture matched to verified R7 RLS p. 13, professor Notes, and transcript Part 3",
+      "source_citation": {
+        "document": "R7 Countercurrent Mechanism, Distal Tubule & Collecting Duct (Physiology) RLS.pdf",
+        "page": 13,
+        "sha256": "ca50759a8866ae8e12f54eddb5bacbed1ecdf0e3439754ce383224629aa42c5a"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/5e38009e690b7313a1208231.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual targets",
+          "supported": "NO",
+          "reason": "Soft low-resolution H&E crop is directly labeled inside its lumen and cuts off part of the lower tubular wall; unlabelled segment identification would be weak."
+        }
+      ],
+      "visual_review": "Original inspected full-size; excluded because low resolution, direct labeling, or clipped tissue prevents reliable scoring.",
+      "review_queue_rechecked_at": "2026-10-05T09:56:10-04:00",
+      "review_queue_recheck": "Original individually reopened at native resolution during R8 import; prior exclusion or duplicate decision remains supported. No silent promotion."
+    },
+    {
+      "relative_path": "R6/Reabsorption of various substances in the proximal tubule.png",
+      "extension": ".png",
+      "bytes": 645420,
+      "sha256": "ca2c57810de6a9aee4b863c5860e0f403b22ba6e0fd2c367f3df42a58d1077b5",
+      "kind": "raster",
+      "width": 1214,
+      "height": 950,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-ca2c57810de6a9ae",
+      "source_id": "src-ca2c57810de6a9ae",
+      "source_group_id": "group-ca2c57810de6a9ae",
+      "perceptual_hash": "1a3824441e1148e0",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R6",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Graph",
+      "tested_concept": "Reabsorption of various substances in the proximal tubule",
+      "review_reason": "The capture clips the TF/P y-axis label at its left boundary. Reconstructing an axis would invent pixels; retain as teaching original.",
+      "ground_truth_basis": "Original manual capture visually matched to R6 RLS p. 9; decisive arrows, curves, or labels independently checked.",
+      "source_citation": {
+        "document": "R6 Proximal Tubule (Physiology) RLS.pdf",
+        "page": 9,
+        "sha256": "3068b178bb02244d4b32410e5a1cca374e75b541f40fc3bd808d9a37c747afea"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/ca2c57810de6a9aee4b863c5.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "batch_id": "2026-10-05-r5-r8-extra",
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "reason": "The capture clips the TF/P y-axis label at its left boundary. Reconstructing an axis would invent pixels; retain as teaching original."
+        },
+        {
+          "type": "Unverifiable or repetitive task",
+          "supported": "NO",
+          "reason": "No additional distinct image-dependent answer is established from this capture."
+        }
+      ],
+      "visual_review": "PASS: original inspected at native size; retained as teaching reference, not scored."
+    },
+    {
+      "relative_path": "R7/Collecting Duct Intercalated Cells Chart.png",
+      "extension": ".png",
+      "bytes": 317424,
+      "sha256": "daeddc76b3ea15d4bfdbf7256780cf04ec0276f3f9a115e0b5d2ce8ac35e97b4",
+      "kind": "raster",
+      "width": 892,
+      "height": 386,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-daeddc76b3ea15d4",
+      "source_id": "src-daeddc76b3ea15d4",
+      "source_group_id": "group-daeddc76b3ea15d4",
+      "perceptual_hash": "717191290289d1d3",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R7",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Diagram",
+      "tested_concept": "Collecting Duct Intercalated Cells Chart",
+      "review_reason": "Text-only summary card; mechanism is tested through the separately supplied cell diagram.",
+      "ground_truth_basis": "Original manual capture visually matched to R7 RLS p. 16; decisive arrows, curves, or labels independently checked.",
+      "source_citation": {
+        "document": "R7 Countercurrent Mechanism, Distal Tubule & Collecting Duct (Physiology) RLS.pdf",
+        "page": 16,
+        "sha256": "ca50759a8866ae8e12f54eddb5bacbed1ecdf0e3439754ce383224629aa42c5a"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/daeddc76b3ea15d4bfdbf725.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "batch_id": "2026-10-05-r5-r8-extra",
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "reason": "Text-only summary card; mechanism is tested through the separately supplied cell diagram."
+        },
+        {
+          "type": "Unverifiable or repetitive task",
+          "supported": "NO",
+          "reason": "No additional distinct image-dependent answer is established from this capture."
+        }
+      ],
+      "visual_review": "PASS: original inspected at native size; retained as teaching reference, not scored."
+    },
+    {
+      "relative_path": "R7/Collecting Duct Principal Cells Chart.png",
+      "extension": ".png",
+      "bytes": 284134,
+      "sha256": "725e95f92f5d679e50cbecd0c505ee0a785f54c33e53e0430a00131298a51558",
+      "kind": "raster",
+      "width": 922,
+      "height": 354,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-725e95f92f5d679e",
+      "source_id": "src-725e95f92f5d679e",
+      "source_group_id": "group-725e95f92f5d679e",
+      "perceptual_hash": "2131810686d28101",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R7",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Diagram",
+      "tested_concept": "Collecting Duct Principal Cells Chart",
+      "review_reason": "Text-only summary card; mechanism is tested through the separately supplied cell diagram.",
+      "ground_truth_basis": "Original manual capture visually matched to R7 RLS p. 16; decisive arrows, curves, or labels independently checked.",
+      "source_citation": {
+        "document": "R7 Countercurrent Mechanism, Distal Tubule & Collecting Duct (Physiology) RLS.pdf",
+        "page": 16,
+        "sha256": "ca50759a8866ae8e12f54eddb5bacbed1ecdf0e3439754ce383224629aa42c5a"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/725e95f92f5d679e50cbecd0.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "batch_id": "2026-10-05-r5-r8-extra",
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "reason": "Text-only summary card; mechanism is tested through the separately supplied cell diagram."
+        },
+        {
+          "type": "Unverifiable or repetitive task",
+          "supported": "NO",
+          "reason": "No additional distinct image-dependent answer is established from this capture."
+        }
+      ],
+      "visual_review": "PASS: original inspected at native size; retained as teaching reference, not scored."
+    },
+    {
+      "relative_path": "R7/Convoluted Distal Tubule Type 1 Cell Chart.png",
+      "extension": ".png",
+      "bytes": 291457,
+      "sha256": "39afab1bc7b9c64d0c039fe683ec420d304c13fc9ca0ba89dd954c6ed1e8decf",
+      "kind": "raster",
+      "width": 506,
+      "height": 540,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-39afab1bc7b9c64d",
+      "source_id": "src-39afab1bc7b9c64d",
+      "source_group_id": "group-39afab1bc7b9c64d",
+      "perceptual_hash": "31305e47e0c881e1",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R7",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Diagram",
+      "tested_concept": "Convoluted Distal Tubule Type 1 Cell Chart",
+      "review_reason": "Text-only summary card; NCC pattern is tested through the paired cell diagram.",
+      "ground_truth_basis": "Original manual capture visually matched to R7 RLS p. 14; decisive arrows, curves, or labels independently checked.",
+      "source_citation": {
+        "document": "R7 Countercurrent Mechanism, Distal Tubule & Collecting Duct (Physiology) RLS.pdf",
+        "page": 14,
+        "sha256": "ca50759a8866ae8e12f54eddb5bacbed1ecdf0e3439754ce383224629aa42c5a"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/39afab1bc7b9c64d0c039fe6.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "batch_id": "2026-10-05-r5-r8-extra",
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "reason": "Text-only summary card; NCC pattern is tested through the paired cell diagram."
+        },
+        {
+          "type": "Unverifiable or repetitive task",
+          "supported": "NO",
+          "reason": "No additional distinct image-dependent answer is established from this capture."
+        }
+      ],
+      "visual_review": "PASS: original inspected at native size; retained as teaching reference, not scored."
+    },
+    {
+      "relative_path": "R7/Convoluted Distal Tubule Type 2 Cell Chart.png",
+      "extension": ".png",
+      "bytes": 340833,
+      "sha256": "42e97555a89dd5eec1f75cd46fc6c63bb6c698e64c861c1dc6d41ae680b98bf0",
+      "kind": "raster",
+      "width": 1020,
+      "height": 336,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-42e97555a89dd5ee",
+      "source_id": "src-42e97555a89dd5ee",
+      "source_group_id": "group-42e97555a89dd5ee",
+      "perceptual_hash": "3430c92caecc591c",
+      "perceptual_hash_method": "64-bit dHash",
+      "source_origin": "lecture",
+      "acquisition": "user manual RLS capture",
+      "lecture_id": "R7",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Diagram",
+      "tested_concept": "Convoluted Distal Tubule Type 2 Cell Chart",
+      "review_reason": "Text-only summary card; NCC plus ENaC pattern is tested through the paired cell diagram.",
+      "ground_truth_basis": "Original manual capture visually matched to R7 RLS p. 14; decisive arrows, curves, or labels independently checked.",
+      "source_citation": {
+        "document": "R7 Countercurrent Mechanism, Distal Tubule & Collecting Duct (Physiology) RLS.pdf",
+        "page": 14,
+        "sha256": "ca50759a8866ae8e12f54eddb5bacbed1ecdf0e3439754ce383224629aa42c5a"
+      },
+      "rights_status": "User-supplied course material, local educational use only; no redistribution authorization established",
+      "original_asset": "assets/42e97555a89dd5eec1f75cd4.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "batch_id": "2026-10-05-r5-r8-extra",
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "reason": "Text-only summary card; NCC plus ENaC pattern is tested through the paired cell diagram."
+        },
+        {
+          "type": "Unverifiable or repetitive task",
+          "supported": "NO",
+          "reason": "No additional distinct image-dependent answer is established from this capture."
+        }
+      ],
+      "visual_review": "PASS: original inspected at native size; retained as teaching reference, not scored."
+    },
+    {
+      "relative_path": "R9/Metabolic Acidosis Anion Gap Types.png",
+      "extension": ".png",
+      "bytes": 229628,
+      "sha256": "0c345e5fcd28a5c3552a685a927f16bc41e90d9d6e0b7ed0b03e77c3eb3bf58e",
+      "kind": "raster",
+      "width": 1556,
+      "height": 220,
+      "format": "PNG",
+      "mode": "RGBA",
+      "decode_status": "ok",
+      "asset_id": "asset-0c345e5fcd28a5c3",
+      "source_id": "src-0c345e5fcd28a5c3",
+      "source_group_id": "group-0c345e5fcd28a5c3",
+      "source_origin": "lecture",
+      "acquisition": "user manual R9 RLS capture",
+      "lecture_id": "R9",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Diagram",
+      "tested_concept": "Metabolic Acidosis Anion Gap Types",
+      "review_reason": "Thin text-only three-column summary with no independently identifiable picture target; retained as lecture reference.",
+      "ground_truth_basis": "Manual capture visually matched to R9 Acid-Base Regulation (Physiology) RLS.pdf p. 33.",
+      "source_citation": {
+        "document": "R9 Acid-Base Regulation (Physiology) RLS.pdf",
+        "page": 33,
+        "sha256": "310a01f2be06a2d17d759c517d19d2ff73ce8b0bda2bb0fc1f0cef7b2213a8d1"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/0c345e5fcd28a5c3552a685a.png",
+      "variants": [],
+      "variant_review_complete": false,
+      "batch_id": "2026-10-05-r9-course-grounded",
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "reason": "Thin text-only three-column summary with no independently identifiable picture target; retained as lecture reference."
+        }
+      ],
+      "review_queue_rechecked_at": "2026-10-05T19:54:39-04:00",
+      "review_queue_recheck": "Native-size review confirms low-height text-only chart; reference-only decision retained."
+    },
+    {
+      "relative_path": "R12/Acid-Base Case Study Summary Table - Diagram.png",
+      "extension": ".png",
+      "bytes": 247331,
+      "sha256": "77cb122c8c19e5e205f9f1d0d198ccbac206fd66472d911044191c9674b46ed0",
+      "kind": "raster",
+      "width": 3400,
+      "height": 1935,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-77cb122c8c19e5e2",
+      "source_id": "src-77cb122c8c19e5e2",
+      "source_group_id": "group-77cb122c8c19e5e2",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Acid-Base Case Study Summary Table - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 67.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 67,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/77cb122c8c19e5e205f9f1d0.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Acid-Base Case Study Summary Table - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Acid-Base Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2216864,
+      "sha256": "789496cb21256a7d9a93a14738af6bf58e45122e8a6c4821d305ed2530b7bc54",
+      "kind": "raster",
+      "width": 1920,
+      "height": 1902,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-789496cb21256a7d",
+      "source_id": "src-789496cb21256a7d",
+      "source_group_id": "group-789496cb21256a7d",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Acid-Base Nomogram - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 8.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 8,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/789496cb21256a7d9a93a147.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Acid-Base Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Acid-Base Nomogram Acute vs Chronic Respiratory - Diagram.png",
+      "extension": ".png",
+      "bytes": 1718401,
+      "sha256": "81260d8ba46bcc802db1badd4e1d0b8c0a9b54f912b26be4ae5eaee280c9182e",
+      "kind": "raster",
+      "width": 1600,
+      "height": 1553,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-81260d8ba46bcc80",
+      "source_id": "src-81260d8ba46bcc80",
+      "source_group_id": "group-81260d8ba46bcc80",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Acid-Base Nomogram Acute vs Chronic Respiratory - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 9.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 9,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/81260d8ba46bcc802db1badd.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Acid-Base Nomogram Acute vs Chronic Respiratory - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Acid-Base Nomogram full slide - Diagram.png",
+      "extension": ".png",
+      "bytes": 2450674,
+      "sha256": "94deafe3d891cdceb1c7a7112b9f6df11d219587aec500a31b9fe1012ad29ed4",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-94deafe3d891cdce",
+      "source_id": "src-94deafe3d891cdce",
+      "source_group_id": "group-94deafe3d891cdce",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Acid-Base Nomogram full slide - Diagram",
+      "review_reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 8.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 8,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/94deafe3d891cdceb1c7a711.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Acid-Base Nomogram full slide - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 1 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 491290,
+      "sha256": "6ef18d08b6c149e394c124e20bcf71914cc1c5108279250061c4f177cec32662",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-6ef18d08b6c149e3",
+      "source_id": "src-6ef18d08b6c149e3",
+      "source_group_id": "group-6ef18d08b6c149e3",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 1 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 14.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 14,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/6ef18d08b6c149e394c124e2.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 1 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 1 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2128995,
+      "sha256": "358fbf2cd5b1026e4e8d0d20824e4feb74eeae077033671c1e1d0bf5d6e8c964",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-358fbf2cd5b1026e",
+      "source_id": "src-358fbf2cd5b1026e",
+      "source_group_id": "group-358fbf2cd5b1026e",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 1 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 15.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 15,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/358fbf2cd5b1026e4e8d0d20.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 1 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 2 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 488111,
+      "sha256": "8d10f85e842865d74acd742750bdc2e9165e6c05e45634d2bf56e52ae9c05ea4",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-8d10f85e842865d7",
+      "source_id": "src-8d10f85e842865d7",
+      "source_group_id": "group-8d10f85e842865d7",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 2 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 20.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 20,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/8d10f85e842865d74acd7427.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 2 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 2 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2124012,
+      "sha256": "f59c00f248268fd3be19f4d3920cc849cb1873128300afd37be38e1464bb2256",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-f59c00f248268fd3",
+      "source_id": "src-f59c00f248268fd3",
+      "source_group_id": "group-f59c00f248268fd3",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 2 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 21.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 21,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/f59c00f248268fd3be19f4d3.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 2 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 3 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 495219,
+      "sha256": "2701777d77734fe1bdf812bbc7d6be4d5d5171239f3dd8a145bc21dd23c89c3e",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-2701777d77734fe1",
+      "source_id": "src-2701777d77734fe1",
+      "source_group_id": "group-2701777d77734fe1",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 3 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 34.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 34,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/2701777d77734fe1bdf812bb.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 3 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 3 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2123911,
+      "sha256": "31978b427b8698834a4bc4cc48ec63383c39b6d2d2806f73e95f3fb830024f83",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-31978b427b869883",
+      "source_id": "src-31978b427b869883",
+      "source_group_id": "group-31978b427b869883",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 3 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 35.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 35,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/31978b427b8698834a4bc4cc.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 3 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 4 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 491817,
+      "sha256": "f4a9b0b98479a1c25bf51c5c543ebf164bbdf8120ecf6a76d800a388485d53f0",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-f4a9b0b98479a1c2",
+      "source_id": "src-f4a9b0b98479a1c2",
+      "source_group_id": "group-f4a9b0b98479a1c2",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 4 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 41.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 41,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/f4a9b0b98479a1c25bf51c5c.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 4 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 4 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2124340,
+      "sha256": "bc7fad95656e3ca1ff635eef9db75a91855ca2f25e1d9538431092f6758ebdcc",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-bc7fad95656e3ca1",
+      "source_id": "src-bc7fad95656e3ca1",
+      "source_group_id": "group-bc7fad95656e3ca1",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 4 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 42.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 42,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/bc7fad95656e3ca1ff635eef.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 4 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 5 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 492409,
+      "sha256": "7cde40cdaa2d73783455f9c0e42d37af6c6e1800a2ed935aa6e8de0a4bd980d9",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-7cde40cdaa2d7378",
+      "source_id": "src-7cde40cdaa2d7378",
+      "source_group_id": "group-7cde40cdaa2d7378",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 5 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 48.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 48,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/7cde40cdaa2d73783455f9c0.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 5 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 5 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2121698,
+      "sha256": "6a922fe92c53669ff4af6f3aec137a852e2314462a66ab5e545fedda2ee0a287",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-6a922fe92c53669f",
+      "source_id": "src-6a922fe92c53669f",
+      "source_group_id": "group-6a922fe92c53669f",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 5 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 49.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 49,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/6a922fe92c53669ff4af6f3a.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 5 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 6 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 492553,
+      "sha256": "6f91faffb06680d19746b99e5f7a53c5b282ea8f53e10adf5bc1f081130e079d",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-6f91faffb06680d1",
+      "source_id": "src-6f91faffb06680d1",
+      "source_group_id": "group-6f91faffb06680d1",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 6 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 55.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 55,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/6f91faffb06680d19746b99e.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 6 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 6 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2122196,
+      "sha256": "92f7e78988a0e898e7a7f79f866dfb03339ba141d0c76f82007514b9dd7787a1",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-92f7e78988a0e898",
+      "source_id": "src-92f7e78988a0e898",
+      "source_group_id": "group-92f7e78988a0e898",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 6 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 56.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 56,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/92f7e78988a0e898e7a7f79f.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 6 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 7 Answer Flow Chart - Algorithm.png",
+      "extension": ".png",
+      "bytes": 450263,
+      "sha256": "b28c5b269c0f4c64684a589949a844aae141e4d0f78ccef5076b079056cf88ed",
+      "kind": "raster",
+      "width": 3880,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-b28c5b269c0f4c64",
+      "source_id": "src-b28c5b269c0f4c64",
+      "source_group_id": "group-b28c5b269c0f4c64",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 7 Answer Flow Chart - Algorithm",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 64.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 64,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/b28c5b269c0f4c64684a5899.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 7 Answer Flow Chart - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Case 7 Nomogram - Diagram.png",
+      "extension": ".png",
+      "bytes": 2201164,
+      "sha256": "ad88401a4e2e3a9aa37bfdeca763b8249d6150a88a697de5133bb38d7ac21cb4",
+      "kind": "raster",
+      "width": 3320,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-ad88401a4e2e3a9a",
+      "source_id": "src-ad88401a4e2e3a9a",
+      "source_group_id": "group-ad88401a4e2e3a9a",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Case 7 Nomogram - Diagram",
+      "review_reason": "Worked case annotation or plotted answer is visible; not used as a scored image.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 65.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 65,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/ad88401a4e2e3a9aa37bfdec.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Case 7 Nomogram - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Worked case annotation or plotted answer is visible; not used as a scored image."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Flow Chart How to Evaluate an Acid-Base Disorder - Algorithm.png",
+      "extension": ".png",
+      "bytes": 236956,
+      "sha256": "1acb9bcc072e04f88f2c6f9c28d5fc8a3376d567d38f142595cd6cb70a477b23",
+      "kind": "raster",
+      "width": 3280,
+      "height": 1530,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-1acb9bcc072e04f8",
+      "source_id": "src-1acb9bcc072e04f8",
+      "source_group_id": "group-1acb9bcc072e04f8",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Flow Chart How to Evaluate an Acid-Base Disorder - Algorithm",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 7.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 7,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/1acb9bcc072e04f88f2c6f9c.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Flow Chart How to Evaluate an Acid-Base Disorder - Algorithm.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Flow Chart How to Evaluate an Acid-Base Disorder full slide - Diagram.png",
+      "extension": ".png",
+      "bytes": 286470,
+      "sha256": "24ac87bc2ff5a489b207cbe8baea9e03aeca4317aabd30a51494149918a88e34",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-24ac87bc2ff5a489",
+      "source_id": "src-24ac87bc2ff5a489",
+      "source_group_id": "group-24ac87bc2ff5a489",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Flow Chart How to Evaluate an Acid-Base Disorder full slide - Diagram",
+      "review_reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 7.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 7,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/24ac87bc2ff5a489b207cbe8.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Flow Chart How to Evaluate an Acid-Base Disorder full slide - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Hydrogen Ion Concentration by pH Acidemia and Alkalemia - Diagram.png",
+      "extension": ".png",
+      "bytes": 814271,
+      "sha256": "16a33bb6badfc7f128d12d4aeb2e8fd2c035a59882b7aa6b64ea0753f38cc777",
+      "kind": "raster",
+      "width": 1626,
+      "height": 1575,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-16a33bb6badfc7f1",
+      "source_id": "src-16a33bb6badfc7f1",
+      "source_group_id": "group-16a33bb6badfc7f1",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Hydrogen Ion Concentration by pH Acidemia and Alkalemia - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 3.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 3,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/16a33bb6badfc7f128d12d4a.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Hydrogen Ion Concentration by pH Acidemia and Alkalemia - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Metabolic Acidosis Causes by Anion Gap - Diagram.png",
+      "extension": ".png",
+      "bytes": 382620,
+      "sha256": "96a0fb59adae91e4421cbc2a24b4339cc5df55f025c461f94818a91a7939df30",
+      "kind": "raster",
+      "width": 3640,
+      "height": 1823,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-96a0fb59adae91e4",
+      "source_id": "src-96a0fb59adae91e4",
+      "source_group_id": "group-96a0fb59adae91e4",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Metabolic Acidosis Causes by Anion Gap - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 59.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 59,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/96a0fb59adae91e4421cbc2a.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Metabolic Acidosis Causes by Anion Gap - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Metabolic Acidosis Causes by Anion Gap with Renal Tubular Acidosis Highlighted - Diagram.png",
+      "extension": ".png",
+      "bytes": 382657,
+      "sha256": "90e0eb39297eeae57de96416556322216bbb4b689c5b94846a1076831b7eb895",
+      "kind": "raster",
+      "width": 3640,
+      "height": 1823,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-90e0eb39297eeae5",
+      "source_id": "src-90e0eb39297eeae5",
+      "source_group_id": "group-90e0eb39297eeae5",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Metabolic Acidosis Causes by Anion Gap with Renal Tubular Acidosis Highlighted - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 62.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 62,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/90e0eb39297eeae57de96416.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Metabolic Acidosis Causes by Anion Gap with Renal Tubular Acidosis Highlighted - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Plasma Volume Decrease AngII and Aldosterone Effects on pH - Diagram.png",
+      "extension": ".png",
+      "bytes": 579447,
+      "sha256": "f416ce10c4e8d4cbfe7eba05015acdf5afdccdeea8fa03acac9c8c14bfc59088",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-f416ce10c4e8d4cb",
+      "source_id": "src-f416ce10c4e8d4cb",
+      "source_group_id": "group-f416ce10c4e8d4cb",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Plasma Volume Decrease AngII and Aldosterone Effects on pH - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 29.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 29,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/f416ce10c4e8d4cbfe7eba05.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Plasma Volume Decrease AngII and Aldosterone Effects on pH - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Primary Disturbance and Compensatory Response Table - Diagram.png",
+      "extension": ".png",
+      "bytes": 863291,
+      "sha256": "17d1d45bebf7cadbd170ef326de0b67cd4be55f7aed785de246e988a95172409",
+      "kind": "raster",
+      "width": 2960,
+      "height": 1103,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-17d1d45bebf7cadb",
+      "source_id": "src-17d1d45bebf7cadb",
+      "source_group_id": "group-17d1d45bebf7cadb",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Primary Disturbance and Compensatory Response Table - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 5.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 5,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/17d1d45bebf7cadbd170ef32.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Primary Disturbance and Compensatory Response Table - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Response to Decreased Effective Arterial Blood Volume Map - Diagram.png",
+      "extension": ".png",
+      "bytes": 1130988,
+      "sha256": "47871c89f9f96f802b867695a78ee27f637392367b64cba16a4d6e3992d69990",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-47871c89f9f96f80",
+      "source_id": "src-47871c89f9f96f80",
+      "source_group_id": "group-47871c89f9f96f80",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Response to Decreased Effective Arterial Blood Volume Map - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 26.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 26,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/47871c89f9f96f802b867695.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Response to Decreased Effective Arterial Blood Volume Map - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/Timing of Acid-Base Defense Responses full slide - Diagram.png",
+      "extension": ".png",
+      "bytes": 971031,
+      "sha256": "993f049cd496e297185aa70680c829f2acb9ee23a0a3e7de6f46504abad683e9",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-993f049cd496e297",
+      "source_id": "src-993f049cd496e297",
+      "source_group_id": "group-993f049cd496e297",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Timing of Acid-Base Defense Responses full slide - Diagram",
+      "review_reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 6.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 6,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/993f049cd496e297185aa706.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/Timing of Acid-Base Defense Responses full slide - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source."
+        }
+      ]
+    },
+    {
+      "relative_path": "R12/pH Range 7.35 to 7.45 Acidotic and Alkalotic Causes - Diagram.png",
+      "extension": ".png",
+      "bytes": 120562,
+      "sha256": "a029915e31dcae0f18e408889ee77ac0ce9f7630713ab327b8844b6626d99fba",
+      "kind": "raster",
+      "width": 1960,
+      "height": 1722,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-a029915e31dcae0f",
+      "source_id": "src-a029915e31dcae0f",
+      "source_group_id": "group-a029915e31dcae0f",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R12",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "pH Range 7.35 to 7.45 Acidotic and Alkalotic Causes - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping visual target; retained as reference only.",
+      "ground_truth_basis": "Manual capture visually reviewed against R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf p. 4.",
+      "source_citation": {
+        "document": "R12 Acid-Base Case Studies Beginners (Physiology) RLS.pdf",
+        "page": 4,
+        "sha256": "200e643583ba3e898c07d3444c324bdc0e01108bac2410ba792771be9410c385"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/a029915e31dcae0f18e40888.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R12/pH Range 7.35 to 7.45 Acidotic and Alkalotic Causes - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping visual target; retained as reference only."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/CKD Anemia Erythropoietin Reduction Illustration - Diagram.png",
+      "extension": ".png",
+      "bytes": 1198414,
+      "sha256": "1f97c51c732cbe6a0fcd105542d362b79425236e8f142aafdf9a5b32e9ac8a27",
+      "kind": "raster",
+      "width": 1240,
+      "height": 1688,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-1f97c51c732cbe6a",
+      "source_id": "src-1f97c51c732cbe6a",
+      "source_group_id": "group-1f97c51c732cbe6a",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "CKD Anemia Erythropoietin Reduction Illustration - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 8.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 8,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/1f97c51c732cbe6a0fcd1055.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/CKD Anemia Erythropoietin Reduction Illustration - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Creatinine and Cystatin C vs eGFR by CKD Stage - Diagram.png",
+      "extension": ".png",
+      "bytes": 179342,
+      "sha256": "7e7bd14155ded57cdb4ddfa4578cdcf398e066dcb871f57b808b65d93f3aaa86",
+      "kind": "raster",
+      "width": 2320,
+      "height": 1722,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-7e7bd14155ded57c",
+      "source_id": "src-7e7bd14155ded57c",
+      "source_group_id": "group-7e7bd14155ded57c",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Creatinine and Cystatin C vs eGFR by CKD Stage - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 4.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 4,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/7e7bd14155ded57cdb4ddfa4.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Creatinine and Cystatin C vs eGFR by CKD Stage - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Creatinine and Cystatin C vs eGFR by CKD Stage full slide - Diagram.png",
+      "extension": ".png",
+      "bytes": 239227,
+      "sha256": "c10be5833e16d2623811c2133756047f63847719289d5e6916abedf1e72b3567",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-c10be5833e16d262",
+      "source_id": "src-c10be5833e16d262",
+      "source_group_id": "group-c10be5833e16d262",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Creatinine and Cystatin C vs eGFR by CKD Stage full slide - Diagram",
+      "review_reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 4.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 4,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/c10be5833e16d2623811c213.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Creatinine and Cystatin C vs eGFR by CKD Stage full slide - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/ENaC Principal Cell Aldosterone Mechanism - Diagram.png",
+      "extension": ".png",
+      "bytes": 102926,
+      "sha256": "c192994bda39dbd48b822d9e486c252857fa3e2fcd7d9243a9252d5fc4f8ed82",
+      "kind": "raster",
+      "width": 1240,
+      "height": 766,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-c192994bda39dbd4",
+      "source_id": "src-c192994bda39dbd4",
+      "source_group_id": "group-c192994bda39dbd4",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "ENaC Principal Cell Aldosterone Mechanism - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 18.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 18,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/c192994bda39dbd48b822d9e.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/ENaC Principal Cell Aldosterone Mechanism - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Fluid Intake and Output Tables - Diagram.png",
+      "extension": ".png",
+      "bytes": 212670,
+      "sha256": "2113406598efd8eb9ec6bf72c247d1aece80b8fb4fd86fc271332915bfb483b4",
+      "kind": "raster",
+      "width": 2600,
+      "height": 1575,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-2113406598efd8eb",
+      "source_id": "src-2113406598efd8eb",
+      "source_group_id": "group-2113406598efd8eb",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Fluid Intake and Output Tables - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 37.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 37,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/2113406598efd8eb9ec6bf72.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Fluid Intake and Output Tables - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Hematocrit Change with Isosmotic vs Hyperosmotic Volume Contraction - Diagram.png",
+      "extension": ".png",
+      "bytes": 653081,
+      "sha256": "551e765d8bf0d568b7a93cd83b279ba401e6a63a115d6416d1ba20262ca9a4bb",
+      "kind": "raster",
+      "width": 4000,
+      "height": 1992,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-551e765d8bf0d568",
+      "source_id": "src-551e765d8bf0d568",
+      "source_group_id": "group-551e765d8bf0d568",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Hematocrit Change with Isosmotic vs Hyperosmotic Volume Contraction - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 40.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 40,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/551e765d8bf0d568b7a93cd8.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Hematocrit Change with Isosmotic vs Hyperosmotic Volume Contraction - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Pitting Edema with caption - Clinical Photo.png",
+      "extension": ".png",
+      "bytes": 1112753,
+      "sha256": "7cf3b3be72a75844e47764f968df42fba604c60286488058e194eb425de2c294",
+      "kind": "raster",
+      "width": 4000,
+      "height": 2250,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-7cf3b3be72a75844",
+      "source_id": "src-7cf3b3be72a75844",
+      "source_group_id": "group-7cf3b3be72a75844",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Pitting Edema with caption - Clinical Photo",
+      "review_reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 16.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 16,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/7cf3b3be72a75844e47764f9.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Pitting Edema with caption - Clinical Photo.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Alternative or answer-bearing view retained for reviewer comparison, not a separate scored source."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Renal Artery Stenosis Kidney - Diagram.png",
+      "extension": ".png",
+      "bytes": 1684341,
+      "sha256": "cac444b923e1e290867768ec4a0b35f78e13d993e4b10376cc4646e97bccadf9",
+      "kind": "raster",
+      "width": 1600,
+      "height": 1216,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-cac444b923e1e290",
+      "source_id": "src-cac444b923e1e290",
+      "source_group_id": "group-cac444b923e1e290",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Renal Artery Stenosis Kidney - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 20.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 20,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/cac444b923e1e290867768ec.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Renal Artery Stenosis Kidney - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    },
+    {
+      "relative_path": "R13/Vitamin D Activation Pathway in CKD - Diagram.png",
+      "extension": ".png",
+      "bytes": 805138,
+      "sha256": "ce618dacff8d428eab58751bb3c297e9938829c1cf9bd0f5a2d493d81f3101b7",
+      "kind": "raster",
+      "width": 2520,
+      "height": 1947,
+      "format": "PNG",
+      "mode": "RGB",
+      "decode_status": "ok",
+      "asset_id": "asset-ce618dacff8d428e",
+      "source_id": "src-ce618dacff8d428e",
+      "source_group_id": "group-ce618dacff8d428e",
+      "source_origin": "lecture",
+      "acquisition": "user-supplied manual capture from scoped Renal RLS",
+      "lecture_id": "R13",
+      "system": "Renal",
+      "status": "REFERENCE_ONLY",
+      "modality": "Reference",
+      "tested_concept": "Vitamin D Activation Pathway in CKD - Diagram",
+      "review_reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected.",
+      "ground_truth_basis": "Manual capture visually reviewed against R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf p. 10.",
+      "source_citation": {
+        "document": "R13 Physiologist and Physician Mini-Case Study Review (Physiology) RLS.pdf",
+        "page": 10,
+        "sha256": "68d0b5918ebcb6e7e55b1f566ff332503fbd67f1f724c4529aa73e317a09a763"
+      },
+      "rights_status": "User-supplied course material, local educational use only; redistribution rights not established",
+      "original_asset": "assets/ce618dacff8d428eab58751b.png",
+      "batch_id": "2026-10-20-r12-r13-r36-r37",
+      "quality_warnings": [],
+      "aliases": [
+        "R13/Vitamin D Activation Pathway in CKD - Diagram.png"
+      ],
+      "variants": [],
+      "variant_review_complete": false,
+      "question_type_matrix": [
+        {
+          "type": "Distinct visual target",
+          "supported": "NO",
+          "visual_target": null,
+          "full_image_required": true,
+          "reason": "Labeled teaching diagram or overlapping target; no additional distinct image-dependent question selected."
+        }
+      ]
+    }
+  ]
+}
